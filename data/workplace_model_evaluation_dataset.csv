@@ -1,0 +1,901 @@
+request_id,department,channel,region,service_area,customer_type,previous_requests_90d,requester_tenure_months,request_text_length,sentiment_score,updates_first_24h,attachments_count,opened_hour,opened_weekday,sla_breach,priority_level,resolution_hours_after_close,closed_status_after_close,escalation_outcome_after_close
+SR-00257,Customer Support,Portal,Northern Ireland,Access,Enterprise Client,3,61,244,-0.38,0,1,19,Tue,0,Standard,17.9,Closed within SLA,No escalation
+SR-00539,Operations,Chat,England,Billing,Enterprise Client,4,79,267,0.339,1,0,15,Tue,0,Low,15.5,Closed within SLA,No escalation
+SR-00260,IT,Phone,England,Policy,Internal,2,45,207,0.252,2,0,7,Thu,0,Urgent,20.0,Closed within SLA,Team review
+SR-00486,HR,Portal,England,Access,Public Sector,3,76,193,-0.593,1,0,15,Mon,1,Low,63.3,Closed after SLA,No escalation
+SR-00454,Operations,Portal,England,Access,SME Client,1,25,188,0.01,4,0,16,Thu,0,Standard,15.6,Closed within SLA,Team review
+SR-00842,Customer Support,Portal,Scotland,Onboarding,Internal,1,45,264,0.136,2,0,19,Thu,0,Low,20.3,Closed within SLA,No escalation
+SR-00863,Customer Support,Portal,England,Policy,Internal,4,44,254,0.924,1,2,9,Tue,0,Standard,8.8,Closed within SLA,Team review
+SR-00892,Legal,Portal,England,Billing,Public Sector,5,8,182,0.188,0,0,7,Mon,1,Urgent,56.0,Closed after SLA,Escalated after breach
+SR-00061,IT,Email,England,Technical,Internal,2,69,170,0.103,2,0,13,Mon,0,Low,28.4,Closed within SLA,No escalation
+SR-00064,Customer Support,Portal,England,Billing,Enterprise Client,4,12,72,0.185,1,0,12,Mon,1,Low,60.5,Closed after SLA,Team review
+SR-00099,Operations,Chat,England,Technical,Internal,1,55,197,0.38,3,0,7,Wed,0,Urgent,34.2,Closed within SLA,No escalation
+SR-00862,Customer Support,Portal,England,Onboarding,SME Client,0,10,320,-0.286,0,0,13,Thu,1,Low,43.4,Closed after SLA,No escalation
+SR-00468,Legal,Portal,England,Access,Enterprise Client,2,75,188,-0.869,1,2,8,Fri,0,Low,31.4,Closed within SLA,No escalation
+SR-00400,HR,Portal,England,Access,Internal,4,20,175,-0.252,4,2,14,Thu,1,Standard,59.5,Closed after SLA,No escalation
+SR-00373,Finance,Portal,England,Technical,SME Client,1,26,26,0.89,0,0,13,Fri,0,Urgent,25.2,Closed within SLA,Manager note
+SR-00109,Operations,Phone,Scotland,Access,SME Client,4,46,137,0.062,2,0,15,Tue,1,Standard,69.4,Closed after SLA,No escalation
+SR-00514,Finance,Chat,England,Technical,SME Client,2,14,168,-0.565,1,0,9,Mon,0,Urgent,26.5,Closed within SLA,No escalation
+SR-00205,Operations,Portal,England,Billing,Internal,0,26,168,-0.039,0,1,7,Tue,0,Standard,1.0,Closed within SLA,No escalation
+SR-00458,HR,Email,Scotland,Access,Public Sector,1,57,205,1.0,1,1,17,Wed,0,Standard,5.4,Closed within SLA,No escalation
+SR-00888,Operations,Phone,England,Onboarding,Internal,1,58,65,0.269,2,2,18,Tue,1,Standard,65.2,Closed after SLA,Team review
+SR-00575,Customer Support,Email,England,Technical,Enterprise Client,0,32,99,0.286,2,1,18,Tue,0,Standard,7.9,Closed within SLA,Team review
+SR-00154,IT,Portal,Northern Ireland,Billing,Enterprise Client,1,27,219,1.0,0,0,13,Fri,0,Standard,9.1,Closed within SLA,No escalation
+SR-00682,Operations,Portal,England,Policy,SME Client,3,65,226,0.558,1,0,9,Wed,1,Low,46.8,Closed after SLA,No escalation
+SR-00594,IT,Phone,England,Onboarding,Enterprise Client,1,9,67,-0.099,1,0,19,Thu,0,Urgent,28.5,Closed within SLA,Team review
+SR-00169,Finance,Portal,England,Data Request,Enterprise Client,6,68,216,-0.571,1,1,7,Wed,1,Low,48.9,Closed after SLA,No escalation
+SR-00446,IT,Email,England,Technical,Internal,1,10,194,-0.131,0,1,14,Tue,0,Urgent,25.2,Closed within SLA,No escalation
+SR-00899,Operations,Email,England,Data Request,Public Sector,0,73,171,0.195,1,0,18,Tue,1,Standard,53.1,Closed after SLA,No escalation
+SR-00653,IT,Portal,England,Access,Internal,3,35,97,0.336,1,1,8,Thu,1,Low,60.8,Closed after SLA,Team review
+SR-00504,HR,Portal,England,Technical,Internal,0,3,461,-1.0,0,0,16,Wed,1,Urgent,48.8,Closed after SLA,Escalated after breach
+SR-00552,Operations,Email,Wales,Onboarding,SME Client,1,82,285,-0.26,1,0,13,Wed,0,Low,15.4,Closed within SLA,Team review
+SR-00295,Customer Support,Chat,Wales,Onboarding,Public Sector,2,68,184,0.137,1,0,15,Tue,0,Urgent,38.0,Closed within SLA,No escalation
+SR-00479,IT,Email,Wales,Access,Internal,0,82,209,-0.134,1,0,17,Tue,0,Low,2.4,Closed within SLA,Team review
+SR-00490,IT,Portal,England,Billing,Internal,0,54,278,0.164,1,0,7,Wed,0,Low,55.9,Closed within SLA,Team review
+SR-00579,Customer Support,Email,England,Billing,Enterprise Client,0,73,177,0.548,4,1,18,Tue,0,Low,17.9,Closed within SLA,No escalation
+SR-00418,Customer Support,Portal,Wales,Technical,SME Client,2,28,49,0.154,1,0,13,Tue,0,Standard,37.8,Closed within SLA,No escalation
+SR-00262,Customer Support,Email,England,Data Request,Internal,3,61,221,-1.0,0,1,13,Tue,0,Standard,20.3,Closed within SLA,No escalation
+SR-00526,Finance,Portal,Northern Ireland,Technical,Internal,1,52,121,0.41,1,0,13,Tue,0,Low,36.1,Closed within SLA,No escalation
+SR-00135,IT,Email,England,Technical,Internal,3,19,218,-0.053,1,0,7,Mon,1,Urgent,73.5,Closed after SLA,Escalated after breach
+SR-00473,Operations,Email,Scotland,Technical,SME Client,4,11,151,-0.064,1,0,7,Wed,1,Standard,80.3,Closed after SLA,No escalation
+SR-00879,IT,Portal,Scotland,Technical,Enterprise Client,3,25,124,0.468,2,1,19,Thu,0,Standard,22.3,Closed within SLA,No escalation
+SR-00111,HR,Email,England,Access,Public Sector,0,52,145,0.132,1,0,9,Wed,0,Low,18.1,Closed within SLA,No escalation
+SR-00509,HR,Chat,England,Access,Public Sector,0,12,165,-0.853,1,1,9,Thu,0,Low,33.5,Closed within SLA,No escalation
+SR-00775,Operations,Phone,England,Onboarding,SME Client,1,22,241,0.829,1,1,11,Mon,0,Low,20.8,Closed within SLA,No escalation
+SR-00245,IT,Email,Northern Ireland,Billing,Public Sector,2,50,199,0.205,0,0,13,Fri,1,Urgent,72.3,Closed after SLA,Escalated after breach
+SR-00483,IT,Email,England,Onboarding,Enterprise Client,0,55,294,0.227,2,1,11,Mon,0,Low,40.3,Closed within SLA,No escalation
+SR-00100,Legal,Portal,England,Technical,SME Client,4,13,215,-0.343,0,0,8,Fri,0,Low,17.7,Closed within SLA,No escalation
+SR-00456,Operations,Portal,England,Billing,Enterprise Client,3,19,35,0.925,0,0,16,Thu,1,Standard,70.1,Closed after SLA,Team review
+SR-00615,Finance,Chat,England,Billing,SME Client,4,52,214,-0.368,3,0,13,Mon,0,Low,25.1,Closed within SLA,No escalation
+SR-00512,Customer Support,Chat,England,Technical,Enterprise Client,1,71,304,0.106,0,0,12,Mon,0,Urgent,20.9,Closed within SLA,No escalation
+SR-00054,IT,Portal,Scotland,Access,Internal,3,80,240,-0.428,1,1,12,Wed,1,Low,68.9,Closed after SLA,Team review
+SR-00014,Customer Support,Chat,England,Access,Public Sector,1,30,76,0.165,1,1,11,Wed,0,Standard,16.5,Closed within SLA,Team review
+SR-00748,HR,Phone,England,Technical,Public Sector,6,48,174,0.054,1,0,16,Tue,1,Urgent,90.2,Closed after SLA,Escalated after breach
+SR-00826,Operations,Portal,England,Onboarding,SME Client,3,8,115,-0.082,2,0,10,Tue,0,Low,10.3,Closed within SLA,No escalation
+SR-00488,Operations,Portal,Scotland,Policy,Enterprise Client,1,82,119,0.955,2,1,15,Tue,0,Standard,25.2,Closed within SLA,No escalation
+SR-00890,IT,Portal,England,Billing,SME Client,2,5,323,-0.046,0,0,11,Thu,1,Urgent,55.8,Closed after SLA,Escalated after breach
+SR-00027,HR,Portal,England,Technical,Public Sector,3,56,71,0.56,1,1,15,Tue,0,Low,19.0,Closed within SLA,No escalation
+SR-00110,Customer Support,Email,Wales,Access,Enterprise Client,3,30,262,0.347,1,0,13,Mon,1,Low,59.8,Closed after SLA,No escalation
+SR-00047,Finance,Phone,England,Access,SME Client,0,27,247,0.105,1,0,12,Thu,0,Low,35.1,Closed within SLA,No escalation
+SR-00465,IT,Email,England,Technical,Internal,3,52,195,-0.693,1,1,12,Wed,1,Urgent,58.7,Closed after SLA,Escalated after breach
+SR-00725,Operations,Portal,Wales,Access,Internal,3,56,244,0.525,0,0,8,Fri,0,Standard,2.2,Closed within SLA,No escalation
+SR-00210,HR,Portal,England,Onboarding,Enterprise Client,1,70,117,-0.132,1,1,12,Thu,0,Low,26.3,Closed within SLA,No escalation
+SR-00850,Legal,Email,Scotland,Policy,Internal,0,72,102,-0.434,2,0,9,Wed,0,Low,31.6,Closed within SLA,No escalation
+SR-00309,Finance,Portal,England,Access,SME Client,2,44,87,0.716,0,0,10,Wed,0,Low,9.5,Closed within SLA,No escalation
+SR-00658,Finance,Email,England,Onboarding,SME Client,1,18,151,0.378,0,0,9,Mon,1,Standard,80.9,Closed after SLA,Manager note
+SR-00464,Finance,Portal,England,Technical,SME Client,2,27,241,0.575,1,1,8,Tue,1,Urgent,55.5,Closed after SLA,Escalated after breach
+SR-00732,Operations,Chat,England,Onboarding,Public Sector,1,36,216,-0.227,1,1,17,Fri,0,Standard,23.8,Closed within SLA,Team review
+SR-00058,IT,Email,England,Technical,SME Client,2,41,265,-0.374,4,0,18,Mon,1,Low,53.5,Closed after SLA,Team review
+SR-00493,IT,Portal,England,Onboarding,Enterprise Client,4,51,128,0.304,0,0,15,Thu,1,Standard,51.4,Closed after SLA,No escalation
+SR-00587,Operations,Chat,Northern Ireland,Technical,Internal,3,79,213,-0.267,3,0,10,Fri,0,Low,13.9,Closed within SLA,No escalation
+SR-00217,Operations,Portal,England,Billing,SME Client,4,74,84,-0.281,1,0,11,Tue,0,Standard,25.6,Closed within SLA,No escalation
+SR-00610,HR,Phone,Wales,Access,Internal,2,43,89,0.642,1,0,19,Mon,0,Urgent,11.8,Closed within SLA,Team review
+SR-00062,HR,Email,Northern Ireland,Policy,Public Sector,4,59,48,1.0,1,0,12,Tue,1,Standard,36.2,Closed after SLA,No escalation
+SR-00324,IT,Email,England,Onboarding,Public Sector,2,2,161,1.0,4,2,19,Wed,0,Standard,12.1,Closed within SLA,No escalation
+SR-00816,Customer Support,Phone,England,Technical,Enterprise Client,1,20,224,0.014,2,0,18,Tue,1,Standard,61.3,Closed after SLA,No escalation
+SR-00801,Customer Support,Chat,England,Onboarding,Enterprise Client,3,75,211,0.47,2,1,14,Tue,1,Low,65.9,Closed after SLA,Team review
+SR-00481,HR,Email,England,Data Request,SME Client,0,78,224,0.248,2,1,18,Wed,0,Standard,7.9,Closed within SLA,No escalation
+SR-00857,Customer Support,Portal,England,Onboarding,Internal,1,77,229,-0.209,2,0,17,Thu,0,Standard,34.8,Closed within SLA,No escalation
+SR-00687,HR,Portal,Scotland,Onboarding,Public Sector,2,53,259,1.0,1,0,18,Mon,0,Standard,17.4,Closed within SLA,No escalation
+SR-00586,IT,Portal,Scotland,Technical,Enterprise Client,3,61,172,0.633,2,1,10,Wed,1,Standard,68.8,Closed after SLA,Manager note
+SR-00141,HR,Portal,England,Technical,Internal,1,38,225,-0.052,2,1,19,Thu,0,Low,36.5,Closed within SLA,Team review
+SR-00581,HR,Email,Scotland,Technical,Enterprise Client,5,29,84,-0.868,0,0,8,Thu,1,Urgent,52.4,Closed after SLA,Escalated after breach
+SR-00233,Legal,Portal,England,Onboarding,SME Client,1,71,181,-0.774,0,0,19,Wed,0,Urgent,14.8,Closed within SLA,No escalation
+SR-00570,IT,Portal,England,Access,SME Client,3,64,57,-0.354,1,1,17,Fri,0,Standard,1.6,Closed within SLA,No escalation
+SR-00180,Customer Support,Portal,England,Access,Public Sector,3,70,78,0.335,1,1,9,Fri,0,Urgent,18.4,Closed within SLA,Team review
+SR-00331,Customer Support,Portal,England,Technical,SME Client,0,37,220,-0.045,0,0,14,Tue,0,Low,31.0,Closed within SLA,No escalation
+SR-00035,HR,Phone,England,Billing,SME Client,0,20,168,0.046,1,1,15,Fri,0,Standard,37.1,Closed within SLA,No escalation
+SR-00368,IT,Chat,England,Access,Internal,1,49,63,-0.729,2,0,11,Mon,0,Standard,17.6,Closed within SLA,No escalation
+SR-00822,IT,Portal,Northern Ireland,Policy,Internal,2,62,173,-0.668,4,1,16,Mon,0,Low,24.7,Closed within SLA,Team review
+SR-00095,Finance,Chat,England,Policy,Enterprise Client,6,6,171,-0.494,2,0,8,Fri,1,Standard,39.3,Closed after SLA,No escalation
+SR-00860,IT,Chat,England,Onboarding,Enterprise Client,4,76,230,0.054,2,1,8,Thu,0,Urgent,26.9,Closed within SLA,No escalation
+SR-00229,IT,Email,England,Billing,Public Sector,0,33,225,-0.272,0,0,15,Wed,1,Urgent,44.8,Closed after SLA,Escalated after breach
+SR-00126,HR,Portal,England,Technical,Enterprise Client,1,3,130,-0.154,2,0,7,Tue,0,Low,19.1,Closed within SLA,No escalation
+SR-00271,Operations,Portal,Wales,Onboarding,SME Client,2,15,163,-0.14,0,0,15,Thu,0,Low,31.2,Closed within SLA,No escalation
+SR-00348,Finance,Portal,Northern Ireland,Technical,Internal,1,2,128,-0.858,2,1,15,Fri,1,Urgent,62.1,Closed after SLA,Escalated after breach
+SR-00541,Legal,Portal,England,Policy,SME Client,2,56,240,0.267,0,2,7,Fri,1,Standard,51.9,Closed after SLA,No escalation
+SR-00571,Finance,Chat,England,Data Request,Public Sector,1,5,182,-0.016,0,1,11,Tue,0,Standard,23.2,Closed within SLA,No escalation
+SR-00443,Customer Support,Email,England,Data Request,Internal,1,23,216,0.539,1,0,10,Tue,1,Standard,67.6,Closed after SLA,Manager note
+SR-00691,Finance,Portal,Northern Ireland,Access,Internal,5,22,229,-0.151,0,1,17,Fri,1,Standard,79.7,Closed after SLA,Manager note
+SR-00485,Operations,Chat,England,Access,SME Client,3,12,83,0.011,2,0,7,Mon,0,Low,6.5,Closed within SLA,Team review
+SR-00871,Customer Support,Email,England,Technical,Public Sector,1,62,101,0.263,2,1,15,Thu,0,Standard,22.4,Closed within SLA,No escalation
+SR-00900,IT,Email,Wales,Onboarding,Enterprise Client,3,36,155,-0.332,2,2,17,Thu,0,Standard,37.3,Closed within SLA,No escalation
+SR-00306,HR,Portal,England,Technical,Enterprise Client,5,36,138,0.243,3,0,11,Mon,1,Standard,63.8,Closed after SLA,No escalation
+SR-00818,IT,Email,Wales,Access,Internal,2,69,232,0.073,1,0,14,Fri,0,Low,27.7,Closed within SLA,No escalation
+SR-00683,Operations,Email,England,Data Request,Enterprise Client,2,40,213,-0.532,1,0,8,Tue,1,Standard,55.8,Closed after SLA,Team review
+SR-00675,IT,Portal,England,Onboarding,Internal,0,58,176,0.728,1,1,16,Thu,0,Low,17.8,Closed within SLA,Team review
+SR-00815,Operations,Portal,England,Policy,Internal,2,52,152,0.262,3,1,19,Thu,0,Low,1.0,Closed within SLA,No escalation
+SR-00252,Customer Support,Chat,England,Technical,Internal,2,27,164,0.354,1,0,7,Thu,1,Urgent,63.8,Closed after SLA,Escalated after breach
+SR-00317,Finance,Portal,England,Data Request,SME Client,3,32,127,0.673,3,1,10,Fri,0,Urgent,33.3,Closed within SLA,No escalation
+SR-00149,HR,Chat,England,Technical,Internal,2,78,255,0.169,1,0,19,Fri,0,Low,40.2,Closed within SLA,No escalation
+SR-00553,Operations,Chat,England,Billing,SME Client,3,3,219,0.359,2,0,8,Fri,1,Low,67.4,Closed after SLA,No escalation
+SR-00472,HR,Chat,England,Technical,Enterprise Client,1,25,276,-0.657,2,1,7,Fri,0,Standard,1.1,Closed within SLA,Team review
+SR-00389,Operations,Email,England,Onboarding,Public Sector,2,74,301,0.194,0,0,7,Fri,0,Urgent,14.5,Closed within SLA,No escalation
+SR-00356,IT,Chat,Wales,Onboarding,SME Client,4,37,194,0.491,1,2,18,Wed,0,Low,32.0,Closed within SLA,No escalation
+SR-00833,HR,Phone,Wales,Onboarding,Enterprise Client,1,49,200,0.489,0,0,13,Tue,0,Low,18.7,Closed within SLA,No escalation
+SR-00619,Operations,Portal,England,Access,Public Sector,0,59,101,0.333,2,0,9,Fri,1,Low,57.7,Closed after SLA,No escalation
+SR-00254,Finance,Portal,Scotland,Policy,SME Client,2,35,25,0.054,0,0,12,Mon,0,Standard,4.7,Closed within SLA,No escalation
+SR-00876,Customer Support,Email,England,Billing,Enterprise Client,5,24,162,-0.314,1,0,11,Fri,1,Standard,71.1,Closed after SLA,Team review
+SR-00147,Finance,Portal,England,Billing,Internal,2,17,285,-0.309,2,1,11,Thu,0,Low,24.6,Closed within SLA,Team review
+SR-00165,IT,Portal,Scotland,Onboarding,Internal,4,76,37,0.067,1,1,7,Wed,0,Low,8.4,Closed within SLA,Team review
+SR-00663,Operations,Chat,England,Technical,Internal,5,83,133,0.103,0,0,7,Thu,0,Urgent,26.4,Closed within SLA,No escalation
+SR-00702,Finance,Portal,England,Policy,Enterprise Client,3,23,212,0.532,1,0,12,Mon,0,Standard,13.4,Closed within SLA,Team review
+SR-00238,Customer Support,Email,England,Access,Internal,1,5,179,0.436,2,0,10,Thu,0,Low,20.1,Closed within SLA,Team review
+SR-00777,IT,Phone,England,Policy,Enterprise Client,6,18,196,1.0,0,1,15,Wed,0,Urgent,55.8,Closed within SLA,Team review
+SR-00568,Operations,Portal,England,Technical,SME Client,2,75,108,-0.205,1,0,9,Thu,1,Urgent,101.6,Closed after SLA,Escalated after breach
+SR-00325,Customer Support,Portal,England,Billing,Internal,2,39,168,0.282,0,0,19,Tue,0,Low,18.2,Closed within SLA,No escalation
+SR-00049,IT,Chat,England,Onboarding,Internal,3,7,305,0.229,2,0,9,Mon,1,Low,61.9,Closed after SLA,Team review
+SR-00129,Operations,Phone,England,Technical,Enterprise Client,2,76,271,-0.023,3,2,17,Mon,1,Low,91.3,Closed after SLA,No escalation
+SR-00272,Operations,Phone,England,Technical,Internal,1,48,251,-0.33,1,0,9,Mon,0,Low,28.9,Closed within SLA,No escalation
+SR-00075,Operations,Portal,Wales,Technical,Enterprise Client,2,30,136,-0.197,1,0,8,Thu,1,Low,57.9,Closed after SLA,Team review
+SR-00838,Legal,Portal,England,Technical,Internal,4,66,217,0.973,1,0,8,Thu,0,Low,17.9,Closed within SLA,Team review
+SR-00633,Operations,Email,England,Access,Enterprise Client,2,5,92,0.269,1,0,10,Mon,1,Standard,58.8,Closed after SLA,No escalation
+SR-00627,Customer Support,Portal,England,Onboarding,Enterprise Client,2,41,89,0.563,1,0,15,Fri,0,Low,12.6,Closed within SLA,No escalation
+SR-00206,Operations,Phone,Wales,Technical,Internal,3,50,151,-0.196,5,1,9,Fri,1,Standard,30.1,Closed after SLA,No escalation
+SR-00160,Customer Support,Phone,England,Onboarding,Internal,4,2,223,0.356,2,0,12,Thu,1,Urgent,83.5,Closed after SLA,Escalated after breach
+SR-00795,Operations,Phone,England,Access,SME Client,5,47,281,0.34,0,0,14,Thu,0,Low,1.0,Closed within SLA,Manager note
+SR-00834,IT,Portal,England,Access,SME Client,3,68,153,-0.981,0,0,9,Thu,1,Low,59.3,Closed after SLA,No escalation
+SR-00098,Operations,Portal,England,Billing,Internal,2,46,73,0.726,0,0,8,Mon,0,Low,15.2,Closed within SLA,No escalation
+SR-00329,IT,Chat,England,Technical,Internal,3,16,132,0.001,1,0,14,Mon,1,Urgent,70.0,Closed after SLA,Escalated after breach
+SR-00766,Operations,Chat,England,Technical,Internal,2,31,91,0.42,3,1,10,Tue,0,Low,2.2,Closed within SLA,No escalation
+SR-00128,Operations,Portal,England,Access,Internal,3,19,99,-0.131,2,0,16,Wed,1,Low,65.1,Closed after SLA,No escalation
+SR-00438,HR,Email,England,Access,Enterprise Client,1,46,223,0.43,2,0,9,Fri,0,Low,28.1,Closed within SLA,No escalation
+SR-00298,Customer Support,Email,England,Access,SME Client,2,33,76,0.284,1,0,15,Fri,1,Low,78.5,Closed after SLA,Manager note
+SR-00597,IT,Chat,England,Technical,Internal,2,82,171,-0.167,0,0,12,Wed,1,Urgent,51.9,Closed after SLA,Escalated after breach
+SR-00081,IT,Chat,England,Access,Enterprise Client,2,80,244,-0.482,1,0,16,Fri,0,Low,11.0,Closed within SLA,No escalation
+SR-00563,Customer Support,Portal,England,Access,Public Sector,1,12,207,-0.663,3,2,11,Tue,0,Urgent,45.3,Closed within SLA,Manager note
+SR-00337,Operations,Portal,England,Technical,SME Client,5,2,155,0.469,2,0,10,Fri,1,Standard,70.9,Closed after SLA,No escalation
+SR-00515,Finance,Portal,England,Access,Enterprise Client,1,75,95,0.105,1,0,16,Wed,0,Low,24.7,Closed within SLA,No escalation
+SR-00543,Customer Support,Portal,Scotland,Policy,Internal,3,44,122,0.077,1,1,13,Thu,0,Standard,28.6,Closed within SLA,No escalation
+SR-00404,Operations,Portal,England,Technical,Internal,3,65,134,0.446,3,1,10,Fri,0,Urgent,27.7,Closed within SLA,Team review
+SR-00745,HR,Portal,England,Policy,Enterprise Client,5,18,336,1.0,1,2,12,Wed,0,Standard,19.4,Closed within SLA,No escalation
+SR-00703,Operations,Phone,Northern Ireland,Onboarding,Public Sector,1,47,166,-0.249,3,1,11,Thu,0,Low,5.3,Closed within SLA,Team review
+SR-00659,IT,Email,England,Technical,Public Sector,2,18,195,-0.179,0,0,17,Mon,1,Urgent,68.5,Closed after SLA,Escalated after breach
+SR-00572,Customer Support,Portal,England,Technical,Enterprise Client,0,62,166,0.402,2,0,10,Fri,1,Standard,79.2,Closed after SLA,No escalation
+SR-00578,IT,Chat,England,Onboarding,Public Sector,2,34,255,0.555,2,1,10,Mon,0,Standard,6.6,Closed within SLA,No escalation
+SR-00808,Operations,Email,England,Technical,SME Client,1,13,152,0.242,2,1,14,Mon,1,Standard,73.1,Closed after SLA,Manager note
+SR-00612,IT,Portal,Northern Ireland,Data Request,SME Client,1,59,183,0.024,1,0,12,Wed,0,Standard,20.4,Closed within SLA,Team review
+SR-00678,HR,Phone,England,Policy,Public Sector,1,13,198,0.308,1,1,15,Mon,0,Standard,3.7,Closed within SLA,Team review
+SR-00789,Customer Support,Email,England,Access,Enterprise Client,3,36,54,-0.049,0,0,14,Tue,0,Standard,15.7,Closed within SLA,Team review
+SR-00685,IT,Email,Scotland,Access,Public Sector,1,36,372,0.162,1,1,13,Wed,0,Low,15.8,Closed within SLA,No escalation
+SR-00415,Operations,Portal,Wales,Onboarding,SME Client,4,58,265,-0.735,2,1,10,Thu,0,Low,15.5,Closed within SLA,No escalation
+SR-00588,Finance,Email,England,Onboarding,Internal,2,71,93,-0.187,3,0,13,Thu,1,Standard,76.3,Closed after SLA,Manager note
+SR-00353,IT,Portal,Scotland,Technical,Public Sector,4,48,173,-1.0,2,1,18,Thu,1,Urgent,38.4,Closed after SLA,Escalated after breach
+SR-00172,IT,Email,Northern Ireland,Onboarding,Public Sector,1,62,44,0.426,1,0,11,Wed,0,Standard,15.6,Closed within SLA,No escalation
+SR-00366,HR,Phone,England,Onboarding,Internal,2,52,202,-0.239,2,1,8,Tue,0,Standard,19.4,Closed within SLA,No escalation
+SR-00016,Operations,Chat,England,Billing,Enterprise Client,3,55,179,-0.746,1,0,13,Thu,0,Low,17.0,Closed within SLA,Manager note
+SR-00674,IT,Phone,England,Access,Public Sector,2,55,197,0.66,3,0,14,Wed,0,Standard,24.5,Closed within SLA,Team review
+SR-00432,Customer Support,Email,England,Policy,SME Client,4,32,125,-0.552,0,0,8,Fri,1,Standard,91.9,Closed after SLA,No escalation
+SR-00714,Customer Support,Portal,England,Access,Enterprise Client,3,38,138,-0.478,1,1,10,Tue,0,Low,22.2,Closed within SLA,No escalation
+SR-00769,Operations,Portal,England,Billing,Internal,3,1,27,0.015,1,1,12,Tue,1,Standard,84.2,Closed after SLA,Manager note
+SR-00532,IT,Email,England,Access,Enterprise Client,4,76,232,-0.266,1,0,18,Tue,0,Low,10.7,Closed within SLA,No escalation
+SR-00894,Operations,Phone,Northern Ireland,Access,Internal,1,8,186,0.347,4,0,19,Fri,0,Low,20.6,Closed within SLA,No escalation
+SR-00148,IT,Phone,Wales,Access,Public Sector,2,64,111,0.174,4,0,12,Thu,1,Urgent,75.4,Closed after SLA,Escalated after breach
+SR-00442,Operations,Phone,England,Access,Enterprise Client,0,45,189,-0.33,2,0,17,Tue,1,Low,47.0,Closed after SLA,No escalation
+SR-00455,Operations,Chat,Northern Ireland,Access,Enterprise Client,3,53,232,0.667,5,0,17,Tue,0,Low,32.3,Closed within SLA,No escalation
+SR-00286,HR,Phone,England,Billing,Internal,3,65,140,-0.773,0,0,12,Fri,1,Standard,55.4,Closed after SLA,No escalation
+SR-00243,Operations,Phone,England,Technical,Enterprise Client,4,31,324,0.416,1,0,7,Tue,0,Standard,48.0,Closed within SLA,Team review
+SR-00843,IT,Portal,England,Policy,Public Sector,2,72,185,-0.252,0,2,19,Tue,0,Standard,19.0,Closed within SLA,No escalation
+SR-00139,Customer Support,Email,England,Billing,Enterprise Client,2,80,164,-0.265,2,0,17,Thu,0,Low,8.5,Closed within SLA,No escalation
+SR-00055,IT,Chat,Scotland,Policy,Internal,3,58,86,-0.093,0,2,9,Mon,0,Low,8.1,Closed within SLA,No escalation
+SR-00799,IT,Chat,Northern Ireland,Billing,Internal,1,79,192,0.026,2,2,17,Mon,1,Urgent,78.8,Closed after SLA,Escalated after breach
+SR-00697,Customer Support,Portal,England,Access,SME Client,1,29,230,-0.375,1,0,10,Fri,0,Urgent,26.2,Closed within SLA,Team review
+SR-00707,Customer Support,Chat,Northern Ireland,Onboarding,SME Client,2,44,222,-0.975,5,0,9,Thu,1,Low,65.4,Closed after SLA,Team review
+SR-00593,Finance,Email,England,Onboarding,SME Client,3,38,196,-0.356,2,0,8,Wed,0,Standard,14.5,Closed within SLA,No escalation
+SR-00636,Operations,Email,Northern Ireland,Billing,Internal,0,59,304,0.309,1,0,17,Wed,0,Low,25.3,Closed within SLA,Manager note
+SR-00023,Legal,Email,England,Billing,SME Client,2,81,174,-0.595,5,1,11,Tue,0,Low,25.2,Closed within SLA,No escalation
+SR-00817,Customer Support,Portal,England,Technical,SME Client,2,6,192,-0.296,2,1,8,Wed,0,Standard,1.0,Closed within SLA,No escalation
+SR-00866,Customer Support,Portal,Scotland,Technical,Internal,3,29,215,0.13,2,0,18,Thu,0,Standard,45.2,Closed within SLA,No escalation
+SR-00805,Operations,Email,England,Technical,SME Client,0,77,164,-0.876,1,1,8,Wed,1,Standard,43.0,Closed after SLA,Team review
+SR-00531,IT,Chat,England,Onboarding,Enterprise Client,1,52,85,-0.295,2,0,9,Thu,1,Low,34.7,Closed after SLA,No escalation
+SR-00884,HR,Portal,England,Technical,Internal,3,32,144,-0.054,0,0,8,Tue,0,Low,2.7,Closed within SLA,No escalation
+SR-00726,Operations,Phone,England,Onboarding,SME Client,0,32,123,0.711,1,1,13,Thu,0,Low,4.0,Closed within SLA,No escalation
+SR-00388,Legal,Portal,England,Onboarding,SME Client,3,2,170,-0.518,3,1,7,Wed,0,Low,15.0,Closed within SLA,No escalation
+SR-00284,Finance,Portal,England,Technical,SME Client,2,15,166,0.578,2,0,12,Fri,0,Urgent,21.4,Closed within SLA,No escalation
+SR-00467,IT,Portal,Scotland,Access,Internal,1,22,157,0.33,1,0,12,Thu,1,Low,58.0,Closed after SLA,No escalation
+SR-00784,IT,Portal,England,Onboarding,SME Client,1,69,146,-0.058,0,0,8,Wed,1,Low,57.6,Closed after SLA,No escalation
+SR-00143,Legal,Email,England,Onboarding,Public Sector,1,54,159,0.15,2,0,13,Wed,0,Standard,2.5,Closed within SLA,Team review
+SR-00051,Operations,Email,England,Billing,Internal,1,52,151,0.716,2,0,11,Thu,0,Low,33.7,Closed within SLA,No escalation
+SR-00781,Finance,Phone,England,Onboarding,SME Client,6,3,200,-0.574,3,0,10,Mon,0,Low,24.1,Closed within SLA,No escalation
+SR-00738,Finance,Chat,England,Billing,Internal,6,21,218,-0.374,1,1,15,Wed,0,Low,24.9,Closed within SLA,No escalation
+SR-00447,Legal,Email,England,Technical,Internal,2,57,238,0.938,0,2,18,Thu,1,Low,57.7,Closed after SLA,No escalation
+SR-00557,Finance,Portal,England,Access,Public Sector,1,36,89,0.104,5,1,13,Fri,0,Standard,7.6,Closed within SLA,No escalation
+SR-00603,Customer Support,Portal,Scotland,Billing,Internal,3,45,222,-0.614,1,1,8,Wed,0,Urgent,6.8,Closed within SLA,No escalation
+SR-00082,HR,Phone,England,Access,Internal,0,15,329,-0.344,1,1,9,Wed,0,Low,5.5,Closed within SLA,No escalation
+SR-00831,IT,Chat,England,Access,Internal,1,65,251,0.4,2,1,18,Tue,0,Low,22.6,Closed within SLA,No escalation
+SR-00398,Finance,Portal,England,Billing,SME Client,0,16,190,1.0,2,0,15,Wed,0,Low,30.2,Closed within SLA,Team review
+SR-00750,Customer Support,Phone,England,Policy,Enterprise Client,1,14,173,0.444,4,0,17,Thu,0,Low,20.1,Closed within SLA,No escalation
+SR-00811,Operations,Phone,Wales,Data Request,SME Client,4,71,99,-0.456,0,0,12,Wed,1,Urgent,56.1,Closed after SLA,Escalated after breach
+SR-00598,IT,Email,England,Onboarding,Public Sector,3,35,95,0.239,1,1,12,Wed,1,Standard,65.2,Closed after SLA,No escalation
+SR-00067,IT,Chat,Wales,Onboarding,Internal,1,28,224,0.797,1,0,16,Tue,0,Low,17.0,Closed within SLA,No escalation
+SR-00673,Legal,Email,Scotland,Policy,Enterprise Client,2,76,71,-0.354,1,0,12,Mon,0,Low,16.8,Closed within SLA,Team review
+SR-00010,HR,Portal,England,Technical,Internal,2,18,104,1.0,1,0,15,Fri,0,Low,32.9,Closed within SLA,Team review
+SR-00645,IT,Email,England,Onboarding,Enterprise Client,3,82,197,-0.202,3,1,9,Tue,0,Standard,28.8,Closed within SLA,No escalation
+SR-00794,Operations,Phone,England,Technical,Enterprise Client,1,5,173,-0.692,0,0,14,Fri,1,Urgent,70.4,Closed after SLA,Escalated after breach
+SR-00223,IT,Phone,England,Access,SME Client,1,40,213,-0.69,1,0,11,Mon,0,Low,8.1,Closed within SLA,No escalation
+SR-00452,Customer Support,Phone,Scotland,Technical,Enterprise Client,2,56,294,-0.596,1,1,18,Thu,0,Urgent,42.2,Closed within SLA,Manager note
+SR-00376,Operations,Portal,England,Policy,Internal,2,58,103,-0.58,1,0,17,Thu,0,Standard,11.2,Closed within SLA,Team review
+SR-00728,Operations,Portal,Wales,Policy,Enterprise Client,4,31,211,1.0,3,1,19,Tue,0,Low,19.0,Closed within SLA,Team review
+SR-00114,IT,Chat,England,Access,Enterprise Client,2,79,164,0.504,1,0,9,Tue,0,Low,18.0,Closed within SLA,Manager note
+SR-00397,Customer Support,Portal,England,Access,Internal,1,25,205,0.321,2,1,9,Mon,1,Standard,56.1,Closed after SLA,Team review
+SR-00652,Customer Support,Email,Scotland,Access,Internal,1,19,193,-0.969,0,0,15,Tue,1,Standard,59.2,Closed after SLA,No escalation
+SR-00419,Operations,Phone,Northern Ireland,Billing,Internal,4,61,186,0.6,2,1,13,Tue,0,Low,30.0,Closed within SLA,No escalation
+SR-00065,IT,Chat,England,Access,Internal,4,2,178,-0.118,1,0,13,Mon,1,Urgent,61.5,Closed after SLA,Escalated after breach
+SR-00812,Operations,Portal,Scotland,Technical,Internal,0,37,233,0.366,1,0,7,Tue,0,Low,20.2,Closed within SLA,No escalation
+SR-00265,Customer Support,Portal,England,Billing,Public Sector,0,71,328,1.0,1,2,9,Mon,1,Low,54.9,Closed after SLA,Team review
+SR-00642,Customer Support,Portal,England,Policy,Enterprise Client,1,6,187,0.574,1,2,19,Thu,1,Low,49.0,Closed after SLA,No escalation
+SR-00328,IT,Email,England,Policy,Enterprise Client,3,2,146,-0.197,2,0,19,Wed,1,Urgent,93.9,Closed after SLA,Escalated after breach
+SR-00378,HR,Portal,Scotland,Technical,Internal,1,60,114,0.037,2,1,9,Fri,0,Low,28.6,Closed within SLA,No escalation
+SR-00840,IT,Phone,England,Billing,Internal,1,49,188,0.246,2,0,17,Wed,1,Low,56.7,Closed after SLA,No escalation
+SR-00021,Customer Support,Portal,Wales,Onboarding,Enterprise Client,1,17,309,0.029,1,1,7,Tue,0,Low,32.0,Closed within SLA,Team review
+SR-00300,IT,Phone,England,Access,Internal,3,44,83,0.978,2,0,19,Tue,0,Low,16.4,Closed within SLA,No escalation
+SR-00689,Customer Support,Portal,England,Onboarding,Public Sector,0,45,110,0.016,2,0,15,Thu,1,Low,89.0,Closed after SLA,Team review
+SR-00410,Legal,Chat,England,Data Request,Enterprise Client,2,10,87,0.765,3,0,10,Tue,1,Standard,46.4,Closed after SLA,No escalation
+SR-00390,Customer Support,Email,Wales,Policy,Public Sector,0,5,137,-0.692,0,1,9,Fri,0,Urgent,20.3,Closed within SLA,Team review
+SR-00319,Finance,Phone,England,Billing,Enterprise Client,2,5,220,-0.362,3,2,15,Mon,0,Low,17.2,Closed within SLA,Manager note
+SR-00340,Legal,Portal,Scotland,Technical,Internal,4,62,125,0.435,2,0,10,Wed,1,Standard,53.9,Closed after SLA,No escalation
+SR-00646,Customer Support,Portal,England,Technical,Internal,3,27,185,0.4,4,2,18,Tue,1,Low,54.9,Closed after SLA,No escalation
+SR-00564,IT,Portal,Wales,Onboarding,SME Client,2,6,167,-0.129,3,0,14,Thu,0,Low,27.3,Closed within SLA,Team review
+SR-00351,IT,Portal,England,Policy,SME Client,3,48,221,-0.778,0,0,13,Tue,1,Standard,74.4,Closed after SLA,No escalation
+SR-00654,Operations,Portal,Scotland,Billing,SME Client,3,44,110,0.58,0,0,11,Tue,1,Low,62.9,Closed after SLA,Team review
+SR-00052,Operations,Portal,Wales,Technical,Internal,3,14,196,0.217,1,1,17,Tue,1,Standard,35.7,Closed after SLA,No escalation
+SR-00187,Finance,Phone,England,Access,Public Sector,2,18,173,-0.015,0,1,14,Tue,1,Standard,79.8,Closed after SLA,Team review
+SR-00889,Operations,Chat,England,Technical,Internal,1,37,194,-0.322,0,1,8,Thu,0,Standard,10.5,Closed within SLA,No escalation
+SR-00611,IT,Portal,England,Data Request,Enterprise Client,1,48,107,-0.196,2,0,17,Tue,0,Urgent,27.6,Closed within SLA,Team review
+SR-00026,Operations,Portal,England,Technical,SME Client,2,11,143,-0.289,2,1,10,Mon,0,Standard,35.2,Closed within SLA,Team review
+SR-00511,Operations,Phone,Northern Ireland,Billing,Internal,2,57,178,0.84,2,0,11,Mon,1,Low,38.0,Closed after SLA,No escalation
+SR-00335,Operations,Portal,England,Data Request,SME Client,2,8,121,-0.102,2,0,10,Thu,1,Low,87.5,Closed after SLA,No escalation
+SR-00723,Operations,Phone,England,Technical,Enterprise Client,3,28,89,0.025,0,0,19,Mon,0,Standard,32.3,Closed within SLA,No escalation
+SR-00741,Operations,Phone,England,Billing,Internal,1,26,125,-0.582,2,1,10,Wed,0,Urgent,23.6,Closed within SLA,Manager note
+SR-00189,Customer Support,Email,Northern Ireland,Access,SME Client,2,13,358,-1.0,1,1,15,Thu,1,Urgent,58.8,Closed after SLA,Escalated after breach
+SR-00583,Operations,Email,England,Billing,Enterprise Client,2,43,131,0.503,0,0,19,Thu,0,Low,22.0,Closed within SLA,Team review
+SR-00466,IT,Email,England,Technical,Enterprise Client,2,71,218,0.524,2,0,12,Thu,1,Urgent,61.3,Closed after SLA,Escalated after breach
+SR-00758,Legal,Phone,England,Policy,Internal,1,36,246,-0.218,5,0,8,Mon,0,Low,13.8,Closed within SLA,No escalation
+SR-00221,Finance,Phone,England,Data Request,Enterprise Client,0,83,188,-0.213,0,0,15,Mon,0,Standard,16.2,Closed within SLA,Manager note
+SR-00297,Legal,Portal,England,Technical,Internal,2,32,99,-0.128,3,1,9,Fri,0,Low,6.9,Closed within SLA,Manager note
+SR-00278,HR,Portal,England,Technical,Public Sector,3,80,176,0.2,0,0,9,Tue,1,Standard,51.9,Closed after SLA,No escalation
+SR-00025,Customer Support,Portal,Scotland,Access,Enterprise Client,2,3,262,-0.127,0,1,8,Wed,0,Low,23.9,Closed within SLA,No escalation
+SR-00721,IT,Portal,England,Policy,Enterprise Client,3,62,144,-1.0,1,1,8,Mon,0,Low,20.9,Closed within SLA,No escalation
+SR-00558,HR,Email,England,Billing,Internal,1,75,171,-0.053,2,1,7,Wed,1,Standard,66.8,Closed after SLA,Team review
+SR-00836,IT,Phone,England,Technical,SME Client,2,76,263,-0.233,3,0,10,Mon,1,Urgent,65.3,Closed after SLA,Escalated after breach
+SR-00492,IT,Phone,England,Access,Enterprise Client,2,79,353,-0.278,1,1,13,Thu,1,Low,57.6,Closed after SLA,No escalation
+SR-00614,Legal,Phone,England,Technical,Internal,1,74,60,0.302,2,1,11,Fri,0,Standard,39.8,Closed within SLA,No escalation
+SR-00729,HR,Portal,Scotland,Data Request,Enterprise Client,4,4,213,-0.733,2,0,18,Fri,0,Standard,15.1,Closed within SLA,No escalation
+SR-00358,Customer Support,Phone,England,Access,Public Sector,4,45,78,0.657,1,0,15,Wed,1,Standard,67.2,Closed after SLA,Team review
+SR-00681,Operations,Chat,England,Billing,Internal,1,67,156,0.673,1,1,18,Mon,1,Low,47.5,Closed after SLA,No escalation
+SR-00386,Legal,Chat,England,Billing,Internal,3,31,226,0.352,0,0,16,Mon,0,Low,38.5,Closed within SLA,No escalation
+SR-00622,HR,Email,England,Onboarding,Internal,2,42,268,-0.015,3,0,11,Tue,0,Standard,10.2,Closed within SLA,No escalation
+SR-00837,Customer Support,Chat,England,Billing,Enterprise Client,1,19,176,1.0,1,0,15,Mon,1,Low,65.2,Closed after SLA,No escalation
+SR-00352,Operations,Portal,England,Access,Public Sector,6,61,233,0.339,1,2,18,Tue,0,Low,27.6,Closed within SLA,Manager note
+SR-00219,Customer Support,Portal,England,Access,Enterprise Client,1,36,91,-0.069,0,2,18,Tue,1,Standard,74.3,Closed after SLA,No escalation
+SR-00240,Operations,Phone,Scotland,Access,Internal,2,55,166,-0.314,1,0,18,Fri,0,Low,12.4,Closed within SLA,No escalation
+SR-00626,HR,Portal,Scotland,Policy,Public Sector,4,48,109,-0.117,0,0,11,Fri,0,Low,15.3,Closed within SLA,No escalation
+SR-00660,HR,Chat,England,Technical,Internal,1,64,100,-0.469,1,1,14,Wed,1,Urgent,47.6,Closed after SLA,Escalated after breach
+SR-00193,Operations,Portal,England,Technical,Internal,4,11,198,0.134,2,1,12,Tue,1,Urgent,80.0,Closed after SLA,Escalated after breach
+SR-00192,Finance,Email,England,Data Request,Internal,2,17,204,0.172,0,0,15,Tue,0,Low,19.3,Closed within SLA,No escalation
+SR-00527,Legal,Portal,England,Technical,SME Client,3,27,230,0.865,0,0,11,Fri,0,Low,26.1,Closed within SLA,Manager note
+SR-00596,Finance,Email,Northern Ireland,Data Request,SME Client,6,12,218,1.0,1,1,13,Tue,0,Standard,31.1,Closed within SLA,No escalation
+SR-00133,IT,Email,Scotland,Onboarding,SME Client,1,12,88,0.621,1,0,16,Fri,0,Low,34.8,Closed within SLA,No escalation
+SR-00848,IT,Email,Scotland,Data Request,SME Client,4,68,239,-1.0,1,1,10,Fri,0,Urgent,29.3,Closed within SLA,Team review
+SR-00253,HR,Portal,England,Access,SME Client,2,23,180,0.288,0,2,13,Tue,0,Low,1.0,Closed within SLA,Team review
+SR-00602,Customer Support,Chat,Scotland,Billing,Enterprise Client,3,79,194,-0.814,1,1,19,Thu,0,Standard,1.0,Closed within SLA,No escalation
+SR-00264,Operations,Portal,England,Technical,SME Client,3,67,267,0.049,0,0,16,Wed,1,Standard,49.4,Closed after SLA,No escalation
+SR-00071,Operations,Portal,England,Access,SME Client,2,61,182,-0.021,0,4,15,Wed,1,Standard,63.5,Closed after SLA,No escalation
+SR-00273,Operations,Portal,England,Access,Internal,3,62,102,0.83,2,1,18,Fri,0,Standard,19.6,Closed within SLA,No escalation
+SR-00424,Operations,Phone,England,Onboarding,Public Sector,3,69,61,-0.801,4,0,18,Wed,0,Standard,34.1,Closed within SLA,Team review
+SR-00116,Customer Support,Portal,England,Onboarding,Enterprise Client,1,6,158,0.017,2,1,9,Thu,0,Standard,21.3,Closed within SLA,No escalation
+SR-00290,Operations,Email,England,Technical,Internal,4,15,216,-0.583,3,0,10,Mon,1,Standard,62.2,Closed after SLA,No escalation
+SR-00656,Finance,Phone,England,Billing,Internal,3,4,283,0.253,0,2,13,Mon,1,Low,69.5,Closed after SLA,No escalation
+SR-00694,Finance,Email,Wales,Access,SME Client,4,78,164,-0.2,1,0,7,Wed,0,Low,1.0,Closed within SLA,No escalation
+SR-00542,IT,Portal,England,Onboarding,SME Client,3,25,131,0.429,1,0,8,Mon,1,Low,75.1,Closed after SLA,No escalation
+SR-00499,Finance,Email,England,Access,Enterprise Client,1,77,252,-0.31,0,0,15,Wed,1,Standard,64.8,Closed after SLA,Team review
+SR-00279,Customer Support,Portal,England,Technical,Internal,3,30,168,0.289,1,1,8,Mon,0,Urgent,16.8,Closed within SLA,No escalation
+SR-00003,Customer Support,Portal,England,Billing,SME Client,2,32,113,0.202,0,1,18,Fri,1,Low,65.6,Closed after SLA,Team review
+SR-00230,Operations,Chat,England,Technical,Enterprise Client,0,74,107,0.831,0,1,8,Mon,0,Standard,21.6,Closed within SLA,No escalation
+SR-00494,Finance,Portal,England,Technical,Internal,0,7,110,0.157,0,1,7,Thu,0,Low,29.8,Closed within SLA,Team review
+SR-00533,Finance,Portal,Scotland,Onboarding,SME Client,5,77,197,0.277,1,1,13,Tue,1,Standard,69.0,Closed after SLA,No escalation
+SR-00771,Finance,Portal,England,Onboarding,Internal,6,31,325,-0.836,1,0,17,Mon,0,Low,33.2,Closed within SLA,Team review
+SR-00200,Finance,Portal,England,Onboarding,Internal,3,16,221,-0.259,0,1,11,Tue,0,Low,14.4,Closed within SLA,No escalation
+SR-00573,HR,Portal,England,Technical,Public Sector,1,9,139,0.541,2,0,8,Thu,1,Standard,57.8,Closed after SLA,Team review
+SR-00747,Finance,Portal,Northern Ireland,Technical,Enterprise Client,0,20,269,0.308,1,1,18,Fri,0,Low,41.4,Closed within SLA,No escalation
+SR-00066,IT,Email,Wales,Data Request,SME Client,2,23,175,0.568,1,1,18,Thu,1,Standard,64.7,Closed after SLA,Team review
+SR-00450,IT,Portal,England,Access,Enterprise Client,4,74,83,0.793,1,0,16,Tue,1,Standard,77.0,Closed after SLA,Team review
+SR-00701,Finance,Chat,England,Access,SME Client,1,23,134,-0.098,2,0,7,Thu,0,Low,32.0,Closed within SLA,No escalation
+SR-00657,Customer Support,Chat,England,Onboarding,Internal,2,40,190,0.646,0,0,11,Thu,0,Low,17.6,Closed within SLA,No escalation
+SR-00363,Operations,Portal,England,Billing,Enterprise Client,2,57,80,0.729,0,0,18,Thu,1,Standard,52.9,Closed after SLA,No escalation
+SR-00409,Operations,Portal,England,Access,Internal,5,59,322,0.54,2,0,15,Fri,0,Low,14.2,Closed within SLA,No escalation
+SR-00420,Customer Support,Chat,England,Billing,Enterprise Client,1,80,124,-1.0,2,1,11,Tue,1,Urgent,70.9,Closed after SLA,Escalated after breach
+SR-00274,IT,Phone,Wales,Data Request,Internal,3,4,107,0.075,1,1,9,Tue,0,Urgent,21.6,Closed within SLA,No escalation
+SR-00391,IT,Email,England,Policy,Public Sector,1,45,233,-0.207,3,2,18,Tue,0,Standard,13.1,Closed within SLA,No escalation
+SR-00680,Finance,Chat,Northern Ireland,Data Request,Enterprise Client,2,38,97,-0.156,0,1,7,Fri,0,Low,36.8,Closed within SLA,No escalation
+SR-00178,Legal,Email,Northern Ireland,Onboarding,Internal,2,55,177,-1.0,2,0,17,Mon,0,Low,1.0,Closed within SLA,No escalation
+SR-00301,Customer Support,Email,Scotland,Policy,Internal,6,4,83,-0.7,2,0,14,Mon,1,Low,78.6,Closed after SLA,Team review
+SR-00038,HR,Portal,England,Onboarding,Internal,1,27,180,-0.128,0,2,12,Thu,0,Standard,1.0,Closed within SLA,No escalation
+SR-00203,HR,Phone,Northern Ireland,Access,Internal,1,45,148,-0.471,2,0,18,Mon,0,Low,27.3,Closed within SLA,No escalation
+SR-00237,HR,Email,Northern Ireland,Billing,Enterprise Client,0,60,105,0.576,1,0,16,Thu,0,Low,41.5,Closed within SLA,No escalation
+SR-00150,Operations,Portal,Wales,Billing,Internal,0,45,149,0.414,1,0,17,Fri,0,Low,8.1,Closed within SLA,No escalation
+SR-00218,Operations,Phone,England,Policy,Internal,1,1,240,-0.212,0,2,16,Thu,1,Standard,73.3,Closed after SLA,No escalation
+SR-00604,IT,Email,Wales,Data Request,Enterprise Client,2,75,299,0.151,3,1,13,Mon,0,Standard,20.6,Closed within SLA,No escalation
+SR-00506,Customer Support,Portal,England,Onboarding,Internal,2,2,186,0.834,2,0,17,Mon,0,Low,18.3,Closed within SLA,No escalation
+SR-00474,Operations,Phone,Scotland,Data Request,Internal,2,10,113,0.25,2,0,10,Mon,1,Standard,75.9,Closed after SLA,Team review
+SR-00545,Operations,Portal,Scotland,Access,SME Client,1,43,89,0.835,1,1,8,Wed,0,Low,32.0,Closed within SLA,Manager note
+SR-00327,Customer Support,Email,England,Billing,SME Client,1,11,103,1.0,0,0,18,Thu,1,Low,78.0,Closed after SLA,Team review
+SR-00303,IT,Phone,Scotland,Billing,Enterprise Client,0,37,179,-0.811,3,1,17,Thu,1,Standard,56.2,Closed after SLA,No escalation
+SR-00770,IT,Chat,Northern Ireland,Data Request,SME Client,2,37,305,0.494,0,0,11,Tue,1,Standard,63.6,Closed after SLA,No escalation
+SR-00821,Operations,Portal,Wales,Onboarding,Internal,4,46,250,-0.177,2,0,9,Thu,1,Low,69.8,Closed after SLA,No escalation
+SR-00599,Legal,Portal,England,Onboarding,Internal,2,29,303,-0.267,0,0,8,Tue,0,Low,1.0,Closed within SLA,No escalation
+SR-00828,Operations,Chat,England,Access,Internal,5,37,158,0.152,1,0,18,Thu,0,Urgent,22.6,Closed within SLA,No escalation
+SR-00752,Finance,Portal,England,Onboarding,Internal,2,44,285,0.145,0,1,10,Mon,0,Low,23.3,Closed within SLA,No escalation
+SR-00664,Operations,Chat,England,Technical,Enterprise Client,3,65,168,-0.049,3,0,17,Mon,0,Standard,14.9,Closed within SLA,No escalation
+SR-00665,Finance,Phone,England,Billing,Enterprise Client,5,15,143,-0.545,2,0,19,Mon,0,Urgent,1.0,Closed within SLA,Team review
+SR-00194,Customer Support,Portal,England,Technical,Internal,4,24,166,0.433,0,0,15,Tue,1,Standard,57.6,Closed after SLA,Team review
+SR-00236,Customer Support,Portal,Scotland,Onboarding,SME Client,1,13,291,-0.128,1,0,9,Thu,0,Low,16.4,Closed within SLA,Manager note
+SR-00749,Customer Support,Chat,England,Billing,SME Client,1,80,261,0.499,2,1,18,Wed,0,Low,1.0,Closed within SLA,No escalation
+SR-00056,Customer Support,Chat,Northern Ireland,Technical,Internal,2,48,122,0.571,2,2,15,Fri,1,Standard,71.7,Closed after SLA,No escalation
+SR-00372,Finance,Portal,England,Data Request,Internal,0,46,166,-0.6,1,1,15,Mon,0,Low,8.1,Closed within SLA,No escalation
+SR-00097,Finance,Email,England,Technical,Internal,1,25,127,-0.012,3,0,13,Mon,1,Standard,55.0,Closed after SLA,Team review
+SR-00142,HR,Phone,England,Onboarding,Internal,3,33,104,0.82,1,0,18,Tue,1,Standard,65.6,Closed after SLA,No escalation
+SR-00624,HR,Phone,England,Technical,Internal,3,79,169,0.507,2,1,10,Wed,0,Urgent,17.0,Closed within SLA,Manager note
+SR-00774,Customer Support,Portal,Scotland,Onboarding,Internal,2,36,159,0.073,0,0,16,Fri,0,Standard,24.8,Closed within SLA,No escalation
+SR-00861,Customer Support,Portal,Scotland,Technical,SME Client,4,49,87,-0.103,2,1,12,Mon,1,Urgent,90.2,Closed after SLA,Escalated after breach
+SR-00692,Customer Support,Portal,England,Technical,Internal,4,15,208,0.604,2,3,16,Fri,0,Urgent,43.4,Closed within SLA,No escalation
+SR-00121,IT,Chat,England,Billing,Enterprise Client,2,35,140,-0.14,1,0,15,Mon,1,Standard,61.7,Closed after SLA,No escalation
+SR-00412,IT,Chat,England,Billing,Internal,4,8,197,-0.424,2,0,12,Fri,1,Urgent,80.5,Closed after SLA,Escalated after breach
+SR-00063,IT,Portal,Northern Ireland,Access,Public Sector,4,23,25,0.164,0,0,12,Fri,0,Standard,21.4,Closed within SLA,No escalation
+SR-00783,HR,Phone,England,Policy,Internal,3,19,211,0.009,1,1,14,Mon,1,Urgent,42.1,Closed after SLA,Escalated after breach
+SR-00361,Legal,Portal,England,Technical,Internal,1,31,151,0.265,1,1,7,Fri,0,Standard,12.8,Closed within SLA,No escalation
+SR-00004,IT,Email,England,Technical,Internal,3,36,260,1.0,1,0,15,Tue,0,Low,26.9,Closed within SLA,Team review
+SR-00059,Operations,Email,England,Technical,Public Sector,1,74,25,-0.216,1,0,12,Thu,1,Urgent,79.6,Closed after SLA,Escalated after breach
+SR-00224,Legal,Portal,England,Technical,Internal,5,30,114,-0.264,1,0,15,Wed,0,Low,16.0,Closed within SLA,No escalation
+SR-00786,Finance,Portal,England,Technical,Public Sector,2,64,276,0.288,0,0,12,Mon,0,Standard,8.8,Closed within SLA,No escalation
+SR-00102,IT,Email,England,Onboarding,Internal,4,7,124,-1.0,1,1,13,Tue,1,Urgent,68.5,Closed after SLA,Escalated after breach
+SR-00644,Operations,Portal,England,Access,SME Client,2,32,173,-0.398,3,3,8,Mon,0,Low,9.6,Closed within SLA,No escalation
+SR-00222,HR,Portal,England,Access,Enterprise Client,1,8,206,-0.243,0,1,8,Tue,1,Low,53.2,Closed after SLA,Manager note
+SR-00650,Operations,Portal,England,Billing,Enterprise Client,3,69,196,-0.007,2,1,12,Fri,1,Urgent,56.9,Closed after SLA,Escalated after breach
+SR-00005,Operations,Chat,England,Technical,Public Sector,1,12,188,0.302,0,0,8,Tue,0,Low,7.4,Closed within SLA,Manager note
+SR-00053,Customer Support,Portal,England,Policy,Internal,1,48,155,0.521,0,0,12,Fri,1,Standard,65.3,Closed after SLA,No escalation
+SR-00018,Operations,Portal,England,Data Request,Internal,0,33,232,0.077,3,0,8,Mon,0,Low,1.0,Closed within SLA,No escalation
+SR-00307,Finance,Email,England,Technical,Enterprise Client,2,31,295,0.141,2,0,11,Wed,0,Standard,8.9,Closed within SLA,Team review
+SR-00156,IT,Phone,Northern Ireland,Data Request,SME Client,1,43,210,-0.959,0,0,10,Tue,1,Standard,63.9,Closed after SLA,No escalation
+SR-00382,Legal,Email,Northern Ireland,Access,SME Client,4,73,291,-0.232,2,1,11,Tue,0,Standard,12.1,Closed within SLA,No escalation
+SR-00846,Customer Support,Email,Wales,Onboarding,SME Client,8,24,167,-0.209,2,0,11,Wed,0,Standard,18.8,Closed within SLA,No escalation
+SR-00249,Finance,Email,England,Data Request,Internal,0,45,88,0.485,0,1,10,Mon,1,Urgent,96.6,Closed after SLA,Escalated after breach
+SR-00250,HR,Chat,England,Policy,Internal,2,20,267,0.869,0,1,16,Thu,1,Standard,67.1,Closed after SLA,No escalation
+SR-00359,HR,Email,England,Access,Internal,3,53,221,-0.034,3,0,15,Thu,1,Low,56.7,Closed after SLA,Team review
+SR-00882,IT,Phone,Wales,Technical,Enterprise Client,3,61,219,0.753,0,0,12,Tue,1,Standard,52.4,Closed after SLA,Team review
+SR-00885,Operations,Portal,England,Policy,Public Sector,4,22,200,-0.093,0,0,10,Thu,1,Urgent,72.9,Closed after SLA,Escalated after breach
+SR-00761,IT,Portal,England,Onboarding,Internal,1,17,120,0.764,0,1,8,Tue,0,Low,8.5,Closed within SLA,No escalation
+SR-00031,Customer Support,Portal,England,Access,Internal,2,42,162,0.103,2,0,17,Mon,1,Standard,71.9,Closed after SLA,No escalation
+SR-00427,Operations,Portal,England,Onboarding,Enterprise Client,2,17,120,0.634,1,0,9,Thu,0,Standard,11.3,Closed within SLA,No escalation
+SR-00865,Operations,Portal,England,Data Request,Internal,5,25,107,-0.16,3,0,14,Mon,0,Standard,19.7,Closed within SLA,No escalation
+SR-00118,IT,Phone,Scotland,Technical,Enterprise Client,0,10,151,-0.557,3,1,14,Mon,1,Urgent,66.3,Closed after SLA,Escalated after breach
+SR-00621,Customer Support,Portal,England,Access,Internal,1,58,115,0.146,1,2,15,Mon,0,Low,26.2,Closed within SLA,No escalation
+SR-00117,Customer Support,Phone,England,Billing,Enterprise Client,3,44,186,0.689,0,1,8,Mon,1,Standard,60.3,Closed after SLA,No escalation
+SR-00423,Operations,Portal,England,Billing,Internal,2,28,208,0.479,0,0,18,Tue,1,Urgent,78.5,Closed after SLA,Escalated after breach
+SR-00595,Operations,Email,England,Onboarding,Internal,4,57,209,-0.106,0,2,9,Fri,1,Standard,67.2,Closed after SLA,Manager note
+SR-00755,IT,Chat,England,Data Request,Public Sector,1,77,94,-0.983,0,0,19,Tue,0,Standard,21.2,Closed within SLA,Manager note
+SR-00028,Operations,Chat,England,Access,Enterprise Client,1,75,132,-0.997,0,0,17,Tue,1,Standard,82.8,Closed after SLA,No escalation
+SR-00308,IT,Email,Northern Ireland,Access,Public Sector,2,76,128,0.809,3,2,14,Tue,1,Standard,53.2,Closed after SLA,No escalation
+SR-00448,IT,Portal,England,Technical,Internal,1,1,66,0.63,0,0,16,Tue,1,Urgent,82.1,Closed after SLA,Escalated after breach
+SR-00529,Customer Support,Phone,England,Technical,Enterprise Client,2,4,217,-0.173,3,1,16,Fri,1,Standard,67.2,Closed after SLA,No escalation
+SR-00201,Customer Support,Portal,Scotland,Billing,Internal,1,58,156,-0.155,2,0,19,Wed,0,Low,24.3,Closed within SLA,No escalation
+SR-00508,Customer Support,Portal,England,Access,Enterprise Client,1,31,135,0.543,0,1,18,Tue,0,Standard,13.2,Closed within SLA,No escalation
+SR-00591,Customer Support,Portal,England,Billing,Internal,3,27,166,-0.221,1,1,17,Wed,0,Low,31.4,Closed within SLA,No escalation
+SR-00810,Legal,Portal,England,Billing,Internal,1,55,214,0.627,0,0,17,Thu,0,Low,15.8,Closed within SLA,No escalation
+SR-00713,Customer Support,Phone,England,Onboarding,Internal,3,47,257,0.191,0,0,17,Tue,0,Low,24.1,Closed within SLA,No escalation
+SR-00453,IT,Portal,England,Billing,SME Client,4,56,146,-1.0,1,0,16,Thu,1,Low,55.0,Closed after SLA,No escalation
+SR-00315,Finance,Portal,England,Billing,SME Client,1,15,255,-0.055,2,1,10,Fri,1,Low,88.2,Closed after SLA,Team review
+SR-00715,Customer Support,Phone,England,Billing,Internal,1,44,219,-0.12,1,0,19,Fri,1,Low,66.7,Closed after SLA,Team review
+SR-00281,Operations,Phone,England,Technical,Enterprise Client,3,57,241,-0.228,1,0,18,Fri,0,Urgent,18.3,Closed within SLA,No escalation
+SR-00851,Operations,Email,Northern Ireland,Policy,Enterprise Client,4,67,248,-0.175,0,1,11,Mon,0,Low,36.0,Closed within SLA,No escalation
+SR-00354,IT,Email,Scotland,Technical,Enterprise Client,3,16,217,-0.52,2,0,19,Wed,1,Urgent,75.4,Closed after SLA,Escalated after breach
+SR-00802,Finance,Chat,England,Onboarding,Enterprise Client,0,10,272,0.048,2,0,16,Wed,0,Low,29.6,Closed within SLA,No escalation
+SR-00208,IT,Portal,England,Access,Enterprise Client,4,78,96,0.403,0,0,16,Mon,0,Low,23.3,Closed within SLA,No escalation
+SR-00380,IT,Email,Northern Ireland,Billing,Enterprise Client,5,43,223,0.541,1,0,10,Wed,1,Standard,69.6,Closed after SLA,Team review
+SR-00684,HR,Portal,England,Onboarding,Internal,3,31,212,-0.027,0,0,16,Fri,0,Standard,22.1,Closed within SLA,No escalation
+SR-00710,HR,Email,England,Access,Enterprise Client,2,83,161,0.952,1,0,11,Mon,1,Low,67.9,Closed after SLA,Team review
+SR-00024,Customer Support,Email,England,Onboarding,Enterprise Client,1,41,151,-0.154,3,1,9,Wed,0,Standard,14.1,Closed within SLA,No escalation
+SR-00341,Operations,Chat,Wales,Billing,Internal,4,77,43,-0.93,4,0,17,Mon,1,Standard,74.0,Closed after SLA,Manager note
+SR-00620,Operations,Portal,Wales,Billing,Enterprise Client,1,1,185,-0.702,0,1,13,Thu,0,Urgent,22.4,Closed within SLA,No escalation
+SR-00569,Finance,Phone,England,Data Request,SME Client,1,36,166,1.0,0,2,19,Wed,0,Low,23.7,Closed within SLA,Team review
+SR-00155,Operations,Portal,Wales,Technical,SME Client,4,62,36,-0.271,1,2,16,Wed,1,Standard,56.6,Closed after SLA,No escalation
+SR-00772,IT,Email,England,Onboarding,Internal,5,65,186,-0.346,1,2,11,Fri,1,Standard,67.6,Closed after SLA,No escalation
+SR-00651,HR,Portal,England,Access,SME Client,1,70,208,-0.505,2,0,14,Mon,1,Low,63.3,Closed after SLA,Team review
+SR-00471,HR,Portal,England,Data Request,SME Client,4,7,286,-0.049,0,0,18,Fri,0,Low,6.7,Closed within SLA,No escalation
+SR-00872,Operations,Phone,England,Access,Internal,2,79,207,-0.228,1,0,7,Thu,0,Low,22.7,Closed within SLA,Team review
+SR-00519,Operations,Chat,England,Billing,Internal,4,81,229,0.316,2,0,10,Mon,1,Standard,54.7,Closed after SLA,No escalation
+SR-00460,IT,Portal,England,Billing,Enterprise Client,4,77,111,-0.152,2,2,14,Thu,0,Low,9.8,Closed within SLA,No escalation
+SR-00535,Operations,Portal,England,Access,SME Client,1,2,142,1.0,2,0,17,Fri,0,Low,16.4,Closed within SLA,No escalation
+SR-00631,Customer Support,Portal,Scotland,Data Request,Public Sector,6,61,238,0.011,1,0,9,Thu,1,Urgent,60.0,Closed after SLA,Escalated after breach
+SR-00505,IT,Portal,England,Data Request,Public Sector,2,60,228,-0.197,0,0,9,Wed,1,Urgent,58.4,Closed after SLA,Escalated after breach
+SR-00263,Finance,Phone,England,Access,Enterprise Client,1,52,224,-0.953,1,0,12,Wed,1,Low,55.6,Closed after SLA,Manager note
+SR-00083,Customer Support,Phone,England,Technical,SME Client,3,70,194,-0.536,1,1,13,Wed,0,Urgent,45.8,Closed within SLA,No escalation
+SR-00897,Finance,Email,Scotland,Policy,SME Client,3,26,185,0.544,2,1,12,Mon,0,Low,42.0,Closed within SLA,No escalation
+SR-00408,Customer Support,Phone,England,Technical,Internal,5,15,144,0.748,2,0,13,Thu,1,Urgent,73.1,Closed after SLA,Escalated after breach
+SR-00867,Customer Support,Chat,Wales,Policy,Internal,1,38,160,-0.515,3,0,10,Mon,1,Urgent,67.5,Closed after SLA,Escalated after breach
+SR-00716,Operations,Portal,Scotland,Billing,Enterprise Client,3,71,202,1.0,1,1,8,Tue,1,Low,49.8,Closed after SLA,No escalation
+SR-00039,Operations,Chat,Scotland,Technical,Enterprise Client,2,61,201,0.021,0,1,15,Fri,1,Standard,77.9,Closed after SLA,No escalation
+SR-00500,IT,Portal,Scotland,Data Request,Public Sector,4,82,222,-1.0,2,1,18,Tue,1,Urgent,76.7,Closed after SLA,Escalated after breach
+SR-00334,Customer Support,Phone,Wales,Billing,Internal,1,64,258,0.281,1,1,15,Tue,0,Standard,12.9,Closed within SLA,Team review
+SR-00011,Finance,Phone,England,Data Request,Enterprise Client,3,7,152,0.868,0,0,13,Wed,0,Standard,15.4,Closed within SLA,Team review
+SR-00501,Customer Support,Email,Northern Ireland,Technical,Internal,3,45,211,-0.498,1,1,17,Tue,0,Urgent,30.1,Closed within SLA,No escalation
+SR-00320,Legal,Portal,England,Billing,SME Client,0,66,81,-0.095,1,0,15,Thu,1,Low,63.3,Closed after SLA,No escalation
+SR-00033,Finance,Email,England,Onboarding,SME Client,2,53,232,-0.246,1,1,18,Tue,0,Standard,42.5,Closed within SLA,Manager note
+SR-00736,IT,Email,England,Onboarding,Internal,1,19,227,-0.456,2,1,12,Mon,0,Low,30.6,Closed within SLA,No escalation
+SR-00787,Customer Support,Email,England,Technical,Internal,3,38,168,-0.125,0,1,19,Fri,1,Urgent,79.1,Closed after SLA,Escalated after breach
+SR-00609,Customer Support,Portal,England,Technical,SME Client,3,42,191,-0.095,4,1,13,Fri,0,Standard,19.2,Closed within SLA,No escalation
+SR-00383,Customer Support,Email,Scotland,Technical,SME Client,1,39,185,0.845,2,0,19,Thu,0,Low,31.2,Closed within SLA,Team review
+SR-00282,Operations,Portal,England,Billing,Public Sector,3,18,175,0.049,4,2,15,Tue,0,Standard,39.3,Closed within SLA,No escalation
+SR-00898,Operations,Portal,England,Policy,SME Client,1,57,269,0.445,1,0,14,Mon,0,Low,8.7,Closed within SLA,No escalation
+SR-00855,Operations,Portal,England,Billing,SME Client,2,49,282,-0.067,2,0,10,Tue,0,Low,25.8,Closed within SLA,No escalation
+SR-00806,Operations,Chat,England,Onboarding,SME Client,2,50,98,-0.849,0,0,14,Tue,0,Low,13.7,Closed within SLA,No escalation
+SR-00720,Legal,Portal,England,Policy,SME Client,0,70,223,0.68,4,1,18,Fri,0,Low,11.7,Closed within SLA,No escalation
+SR-00814,IT,Chat,Scotland,Data Request,Internal,2,28,261,-0.469,1,1,9,Mon,0,Low,22.9,Closed within SLA,No escalation
+SR-00379,Finance,Chat,England,Technical,SME Client,2,65,167,0.819,2,0,7,Fri,0,Low,21.9,Closed within SLA,No escalation
+SR-00436,Operations,Chat,Wales,Technical,SME Client,2,82,145,0.222,3,2,7,Wed,1,Low,58.1,Closed after SLA,No escalation
+SR-00859,Finance,Chat,England,Technical,Internal,2,4,277,-0.372,1,0,18,Mon,1,Low,67.9,Closed after SLA,No escalation
+SR-00090,HR,Phone,England,Billing,SME Client,2,25,136,0.067,0,1,19,Tue,1,Low,73.6,Closed after SLA,No escalation
+SR-00214,Customer Support,Chat,England,Technical,Internal,3,60,247,-0.618,1,0,15,Wed,0,Standard,7.4,Closed within SLA,No escalation
+SR-00322,HR,Portal,England,Technical,Public Sector,2,22,25,0.318,2,0,18,Tue,0,Urgent,28.4,Closed within SLA,No escalation
+SR-00751,Finance,Portal,England,Technical,Internal,3,4,71,-0.041,3,0,15,Tue,0,Low,26.5,Closed within SLA,No escalation
+SR-00134,Finance,Chat,Scotland,Policy,SME Client,2,18,191,0.77,0,1,9,Mon,0,Low,9.5,Closed within SLA,No escalation
+SR-00347,Legal,Email,England,Onboarding,Internal,2,40,256,-0.586,1,2,12,Tue,0,Standard,30.9,Closed within SLA,No escalation
+SR-00044,Finance,Email,Northern Ireland,Technical,Internal,1,40,50,0.452,2,1,8,Thu,1,Standard,65.3,Closed after SLA,No escalation
+SR-00008,Customer Support,Portal,England,Billing,Internal,1,36,88,-0.084,2,1,8,Thu,1,Standard,59.3,Closed after SLA,No escalation
+SR-00667,Customer Support,Portal,Scotland,Technical,SME Client,3,37,165,0.309,0,0,7,Thu,1,Standard,79.8,Closed after SLA,No escalation
+SR-00510,Operations,Phone,Wales,Access,SME Client,2,22,142,-0.831,2,1,10,Tue,0,Low,16.2,Closed within SLA,Team review
+SR-00820,Finance,Phone,Wales,Technical,SME Client,1,33,63,-0.035,2,1,12,Mon,0,Low,3.3,Closed within SLA,Team review
+SR-00188,Operations,Phone,England,Data Request,Internal,1,9,102,-0.059,2,0,13,Tue,0,Low,15.0,Closed within SLA,No escalation
+SR-00696,IT,Phone,England,Data Request,SME Client,2,34,167,0.914,0,0,8,Thu,0,Standard,11.8,Closed within SLA,Team review
+SR-00123,Operations,Chat,England,Access,Public Sector,3,65,140,1.0,3,1,16,Tue,0,Low,21.9,Closed within SLA,No escalation
+SR-00041,HR,Portal,England,Access,Internal,3,2,166,-0.057,2,0,12,Mon,0,Standard,37.0,Closed within SLA,Team review
+SR-00305,Customer Support,Portal,England,Access,SME Client,1,30,152,0.607,0,0,7,Thu,1,Low,44.2,Closed after SLA,No escalation
+SR-00032,Legal,Portal,Northern Ireland,Billing,Public Sector,2,24,276,0.272,0,1,7,Fri,0,Urgent,16.2,Closed within SLA,Team review
+SR-00544,Legal,Portal,England,Billing,SME Client,2,59,165,1.0,0,0,12,Tue,0,Low,6.4,Closed within SLA,Team review
+SR-00173,Finance,Email,Scotland,Access,Enterprise Client,2,61,189,-0.152,2,2,16,Mon,0,Low,39.6,Closed within SLA,No escalation
+SR-00285,IT,Portal,England,Access,Public Sector,3,78,178,-0.062,3,0,8,Wed,1,Urgent,68.5,Closed after SLA,Escalated after breach
+SR-00431,Customer Support,Phone,England,Onboarding,SME Client,1,54,289,-0.068,0,2,10,Fri,1,Urgent,65.2,Closed after SLA,Escalated after breach
+SR-00791,Operations,Phone,Scotland,Technical,Internal,2,48,181,-0.878,3,1,18,Fri,0,Urgent,34.2,Closed within SLA,No escalation
+SR-00241,Customer Support,Portal,England,Data Request,Enterprise Client,0,63,260,0.225,1,1,9,Wed,1,Low,50.6,Closed after SLA,Manager note
+SR-00809,HR,Chat,England,Technical,Public Sector,1,65,132,0.048,3,0,8,Mon,0,Standard,25.9,Closed within SLA,Team review
+SR-00175,Operations,Chat,England,Access,Enterprise Client,1,14,139,0.153,1,0,15,Wed,1,Standard,62.5,Closed after SLA,No escalation
+SR-00592,HR,Phone,Scotland,Technical,Enterprise Client,3,62,308,-0.326,0,1,17,Thu,1,Urgent,63.7,Closed after SLA,Escalated after breach
+SR-00625,Legal,Phone,Wales,Technical,Internal,4,46,221,0.313,0,1,10,Wed,1,Low,62.6,Closed after SLA,No escalation
+SR-00246,Customer Support,Portal,England,Onboarding,SME Client,1,40,218,-0.03,1,0,18,Fri,0,Low,8.1,Closed within SLA,No escalation
+SR-00057,HR,Phone,England,Policy,Internal,1,10,211,0.868,1,0,10,Fri,0,Standard,17.7,Closed within SLA,Team review
+SR-00700,Finance,Portal,England,Technical,Enterprise Client,4,44,233,-0.293,0,0,14,Thu,0,Standard,29.8,Closed within SLA,Manager note
+SR-00072,HR,Portal,England,Technical,Enterprise Client,1,64,196,-0.221,3,1,9,Thu,1,Standard,54.3,Closed after SLA,Team review
+SR-00670,HR,Email,England,Onboarding,Enterprise Client,0,36,128,0.974,2,0,7,Wed,0,Low,1.0,Closed within SLA,No escalation
+SR-00146,Finance,Portal,Wales,Technical,Enterprise Client,2,83,112,0.626,1,0,7,Tue,0,Low,26.9,Closed within SLA,No escalation
+SR-00091,Operations,Email,England,Policy,Internal,1,4,151,0.952,0,0,7,Wed,0,Standard,17.2,Closed within SLA,Manager note
+SR-00167,Customer Support,Portal,Scotland,Onboarding,SME Client,2,44,201,-0.608,1,0,16,Wed,1,Low,59.6,Closed after SLA,No escalation
+SR-00393,IT,Email,Scotland,Policy,Internal,5,3,105,-0.225,0,0,7,Tue,0,Standard,7.0,Closed within SLA,No escalation
+SR-00877,HR,Phone,England,Policy,SME Client,5,40,230,-1.0,1,2,10,Mon,1,Urgent,83.6,Closed after SLA,Escalated after breach
+SR-00171,Finance,Chat,England,Technical,Public Sector,0,25,142,0.4,0,0,17,Fri,0,Low,33.3,Closed within SLA,No escalation
+SR-00311,HR,Phone,England,Billing,SME Client,1,22,164,0.301,0,0,7,Fri,1,Low,49.9,Closed after SLA,Team review
+SR-00362,Operations,Email,England,Onboarding,Internal,2,81,269,0.859,1,1,19,Tue,0,Low,1.0,Closed within SLA,No escalation
+SR-00360,IT,Chat,England,Billing,SME Client,3,62,182,-1.0,2,0,9,Tue,1,Urgent,57.0,Closed after SLA,Escalated after breach
+SR-00094,Finance,Portal,England,Data Request,SME Client,2,45,217,0.214,0,0,18,Thu,0,Low,1.3,Closed within SLA,No escalation
+SR-00323,Finance,Chat,England,Onboarding,SME Client,3,71,221,-0.237,2,0,9,Tue,0,Low,11.0,Closed within SLA,No escalation
+SR-00421,IT,Email,England,Access,Internal,4,51,166,-0.225,1,0,19,Tue,0,Standard,1.5,Closed within SLA,Manager note
+SR-00413,Operations,Email,Wales,Technical,Public Sector,7,18,203,1.0,2,2,12,Fri,1,Standard,36.2,Closed after SLA,Team review
+SR-00617,Customer Support,Portal,England,Technical,Enterprise Client,3,30,269,-0.405,1,0,14,Thu,1,Standard,71.0,Closed after SLA,No escalation
+SR-00782,Customer Support,Phone,Scotland,Technical,Internal,3,45,111,0.029,2,0,11,Fri,0,Low,18.5,Closed within SLA,Manager note
+SR-00669,Finance,Email,England,Access,Enterprise Client,1,65,220,0.111,2,1,10,Tue,0,Standard,29.6,Closed within SLA,No escalation
+SR-00377,Legal,Portal,England,Billing,Internal,2,40,279,1.0,0,0,13,Fri,0,Low,22.5,Closed within SLA,No escalation
+SR-00396,HR,Portal,Scotland,Access,Internal,0,14,120,0.915,2,0,19,Tue,0,Low,29.2,Closed within SLA,Team review
+SR-00244,IT,Phone,Wales,Access,Enterprise Client,2,31,328,0.037,1,1,9,Thu,0,Low,14.6,Closed within SLA,No escalation
+SR-00735,Operations,Chat,Northern Ireland,Access,Enterprise Client,5,80,50,0.165,3,0,19,Mon,0,Low,18.3,Closed within SLA,Team review
+SR-00088,HR,Portal,England,Onboarding,Public Sector,2,77,90,0.28,0,0,9,Tue,0,Low,14.6,Closed within SLA,Team review
+SR-00215,IT,Chat,England,Onboarding,SME Client,3,54,169,0.055,2,1,12,Wed,0,Standard,8.9,Closed within SLA,Manager note
+SR-00874,Finance,Chat,England,Onboarding,Internal,3,22,190,-0.263,1,1,17,Thu,0,Standard,16.9,Closed within SLA,Team review
+SR-00345,Customer Support,Portal,England,Technical,Internal,1,46,242,-0.59,1,0,17,Thu,1,Urgent,60.0,Closed after SLA,Escalated after breach
+SR-00174,Legal,Chat,England,Billing,Enterprise Client,4,8,113,0.212,1,0,13,Wed,1,Low,50.6,Closed after SLA,Team review
+SR-00757,Finance,Portal,England,Data Request,Public Sector,2,3,52,0.037,0,0,7,Mon,0,Urgent,37.2,Closed within SLA,Team review
+SR-00706,IT,Portal,England,Technical,Internal,2,76,192,0.055,4,0,16,Mon,0,Urgent,26.8,Closed within SLA,Team review
+SR-00292,Operations,Portal,Wales,Policy,Enterprise Client,2,68,233,0.125,0,0,15,Thu,1,Low,59.9,Closed after SLA,No escalation
+SR-00426,Customer Support,Chat,England,Access,Public Sector,3,11,94,0.333,1,0,16,Thu,1,Standard,56.8,Closed after SLA,Manager note
+SR-00690,IT,Portal,England,Billing,Enterprise Client,0,83,157,0.705,0,0,15,Wed,0,Standard,11.7,Closed within SLA,Team review
+SR-00119,HR,Portal,England,Onboarding,Public Sector,3,20,302,1.0,1,0,7,Mon,0,Low,24.8,Closed within SLA,No escalation
+SR-00120,IT,Email,Northern Ireland,Data Request,SME Client,3,66,98,-0.687,0,0,10,Tue,1,Standard,52.9,Closed after SLA,Team review
+SR-00164,Operations,Email,England,Access,Internal,0,48,193,0.858,1,0,18,Thu,1,Low,56.3,Closed after SLA,No escalation
+SR-00566,IT,Phone,England,Billing,Internal,4,27,256,0.307,1,1,8,Mon,1,Urgent,78.2,Closed after SLA,Escalated after breach
+SR-00385,Finance,Chat,England,Technical,SME Client,0,76,161,-0.982,2,0,12,Fri,0,Low,40.2,Closed within SLA,Team review
+SR-00001,Customer Support,Email,England,Technical,Internal,0,14,97,-0.318,4,2,18,Tue,0,Urgent,1.0,Closed within SLA,Manager note
+SR-00395,Operations,Portal,England,Onboarding,Internal,3,78,180,-0.509,2,1,15,Thu,0,Low,38.4,Closed within SLA,No escalation
+SR-00402,Customer Support,Email,Wales,Access,SME Client,4,65,154,-0.268,1,0,18,Fri,0,Standard,15.6,Closed within SLA,Team review
+SR-00405,Legal,Phone,England,Technical,SME Client,1,60,365,-0.631,1,0,19,Wed,1,Urgent,59.3,Closed after SLA,Escalated after breach
+SR-00548,Operations,Email,Scotland,Technical,Enterprise Client,4,50,225,1.0,1,0,9,Wed,1,Low,56.5,Closed after SLA,No escalation
+SR-00886,Finance,Phone,Scotland,Technical,Internal,1,82,285,0.149,3,0,12,Wed,1,Urgent,80.6,Closed after SLA,Escalated after breach
+SR-00163,Operations,Portal,England,Billing,Internal,2,63,131,-0.005,5,0,14,Fri,1,Low,68.0,Closed after SLA,Team review
+SR-00321,Customer Support,Portal,England,Billing,Internal,3,33,101,0.243,1,2,9,Tue,0,Urgent,26.2,Closed within SLA,Team review
+SR-00115,Operations,Portal,England,Access,Public Sector,1,18,25,-0.256,1,1,15,Mon,0,Standard,41.6,Closed within SLA,No escalation
+SR-00159,IT,Email,Scotland,Technical,Public Sector,0,68,239,-0.022,0,1,11,Fri,0,Standard,1.1,Closed within SLA,No escalation
+SR-00151,Customer Support,Phone,Northern Ireland,Billing,Internal,2,30,178,0.188,1,0,8,Wed,1,Standard,67.3,Closed after SLA,No escalation
+SR-00676,HR,Portal,England,Onboarding,Internal,2,78,189,-0.111,3,1,10,Tue,0,Low,15.5,Closed within SLA,No escalation
+SR-00516,Operations,Phone,England,Technical,Internal,5,66,273,-0.58,0,1,7,Wed,0,Standard,23.7,Closed within SLA,No escalation
+SR-00369,Finance,Email,England,Technical,SME Client,2,11,170,-0.581,1,1,16,Mon,1,Urgent,62.0,Closed after SLA,Escalated after breach
+SR-00478,IT,Chat,England,Billing,SME Client,1,25,135,0.602,1,1,11,Fri,0,Low,19.6,Closed within SLA,Team review
+SR-00880,IT,Email,England,Access,Public Sector,3,1,98,0.785,1,0,16,Mon,1,Standard,69.0,Closed after SLA,No escalation
+SR-00524,IT,Portal,England,Technical,SME Client,1,83,231,-0.516,2,2,18,Wed,0,Standard,27.9,Closed within SLA,No escalation
+SR-00853,Customer Support,Chat,Scotland,Billing,Enterprise Client,2,17,110,-0.565,2,0,7,Tue,0,Low,36.8,Closed within SLA,No escalation
+SR-00259,Operations,Email,England,Billing,Enterprise Client,1,24,220,0.824,3,0,7,Thu,0,Low,29.3,Closed within SLA,No escalation
+SR-00756,Operations,Email,England,Technical,Enterprise Client,1,54,138,0.477,0,0,10,Wed,0,Standard,45.3,Closed within SLA,Team review
+SR-00136,Operations,Email,England,Technical,Public Sector,5,62,35,0.499,2,0,11,Wed,1,Standard,56.8,Closed after SLA,No escalation
+SR-00870,Operations,Phone,England,Billing,Internal,0,30,140,-0.636,0,1,7,Tue,0,Low,16.6,Closed within SLA,No escalation
+SR-00565,IT,Email,England,Billing,Enterprise Client,5,33,128,-0.467,1,1,13,Wed,1,Urgent,45.8,Closed after SLA,Escalated after breach
+SR-00730,IT,Email,England,Policy,Public Sector,2,3,25,0.759,1,1,9,Wed,0,Standard,11.4,Closed within SLA,No escalation
+SR-00502,Customer Support,Portal,Scotland,Data Request,Enterprise Client,1,75,151,-0.553,2,0,9,Tue,1,Low,63.5,Closed after SLA,No escalation
+SR-00582,IT,Portal,England,Access,Internal,5,25,151,-0.449,4,0,18,Fri,0,Low,12.0,Closed within SLA,No escalation
+SR-00344,IT,Portal,Scotland,Onboarding,Enterprise Client,3,42,65,-0.015,3,0,9,Fri,1,Standard,62.7,Closed after SLA,Team review
+SR-00601,HR,Phone,England,Data Request,Internal,3,14,226,-0.887,2,1,7,Wed,1,Urgent,85.4,Closed after SLA,Escalated after breach
+SR-00554,Customer Support,Chat,England,Onboarding,SME Client,1,43,254,0.728,0,1,11,Tue,0,Low,21.4,Closed within SLA,No escalation
+SR-00294,Operations,Chat,England,Onboarding,SME Client,1,30,239,0.291,3,0,18,Fri,1,Low,77.6,Closed after SLA,Manager note
+SR-00365,IT,Email,Wales,Billing,SME Client,3,63,178,-0.604,2,0,14,Thu,0,Standard,1.0,Closed within SLA,Manager note
+SR-00559,IT,Chat,Northern Ireland,Onboarding,SME Client,2,2,177,0.52,5,3,7,Thu,0,Standard,2.7,Closed within SLA,No escalation
+SR-00015,HR,Chat,Scotland,Policy,Enterprise Client,0,24,239,-0.364,2,0,19,Mon,1,Low,66.1,Closed after SLA,Manager note
+SR-00087,IT,Portal,England,Technical,SME Client,4,76,181,-0.975,1,1,16,Fri,0,Urgent,24.9,Closed within SLA,No escalation
+SR-00371,Customer Support,Chat,England,Access,Public Sector,2,59,227,-0.187,2,0,13,Thu,0,Low,14.2,Closed within SLA,No escalation
+SR-00166,Finance,Chat,England,Access,Enterprise Client,2,49,179,-0.63,1,0,13,Wed,0,Low,20.9,Closed within SLA,No escalation
+SR-00878,Finance,Email,Scotland,Billing,Internal,1,53,222,-0.83,4,1,15,Wed,1,Standard,64.0,Closed after SLA,No escalation
+SR-00336,IT,Portal,England,Technical,Internal,2,9,62,-0.005,2,0,9,Mon,0,Low,15.7,Closed within SLA,Manager note
+SR-00060,Operations,Email,England,Onboarding,Internal,0,32,276,1.0,3,1,17,Mon,1,Low,47.0,Closed after SLA,No escalation
+SR-00355,HR,Portal,England,Technical,Internal,1,31,232,-0.266,0,1,8,Fri,0,Low,13.9,Closed within SLA,Manager note
+SR-00425,IT,Portal,Wales,Access,Enterprise Client,2,9,190,-0.653,0,0,7,Wed,0,Standard,8.2,Closed within SLA,No escalation
+SR-00293,Customer Support,Chat,England,Billing,SME Client,2,31,139,0.014,2,0,15,Mon,0,Low,12.9,Closed within SLA,No escalation
+SR-00042,Customer Support,Phone,England,Policy,Internal,1,29,158,0.356,0,0,19,Fri,0,Urgent,34.0,Closed within SLA,No escalation
+SR-00330,Finance,Portal,England,Billing,Public Sector,2,79,188,-0.639,0,1,16,Fri,0,Standard,26.0,Closed within SLA,No escalation
+SR-00430,Customer Support,Portal,England,Data Request,Public Sector,3,79,260,0.346,3,0,8,Fri,1,Standard,62.6,Closed after SLA,No escalation
+SR-00080,Customer Support,Portal,England,Access,Internal,1,8,131,0.067,0,1,15,Mon,1,Low,71.3,Closed after SLA,No escalation
+SR-00029,Operations,Email,Wales,Billing,Enterprise Client,7,11,272,-1.0,2,0,10,Mon,1,Urgent,50.0,Closed after SLA,Escalated after breach
+SR-00255,Operations,Email,England,Onboarding,Enterprise Client,5,9,166,-0.79,1,2,7,Tue,1,Low,64.8,Closed after SLA,Manager note
+SR-00668,Legal,Portal,England,Technical,Enterprise Client,4,46,190,0.16,0,0,13,Tue,1,Standard,53.0,Closed after SLA,No escalation
+SR-00459,Customer Support,Phone,England,Policy,SME Client,2,73,25,-1.0,3,0,9,Wed,1,Standard,57.6,Closed after SLA,No escalation
+SR-00384,HR,Email,England,Technical,Internal,1,56,212,0.854,3,0,11,Mon,1,Low,66.1,Closed after SLA,Team review
+SR-00314,Finance,Portal,England,Technical,SME Client,2,46,239,0.499,2,0,19,Mon,0,Low,18.6,Closed within SLA,Team review
+SR-00085,Operations,Portal,England,Access,Internal,3,37,252,-1.0,2,0,8,Wed,0,Low,29.7,Closed within SLA,No escalation
+SR-00137,Legal,Portal,England,Technical,Internal,1,74,157,-0.556,0,1,15,Fri,0,Standard,23.4,Closed within SLA,Manager note
+SR-00112,Operations,Email,England,Policy,Enterprise Client,1,32,225,-0.106,1,1,19,Tue,0,Low,14.8,Closed within SLA,No escalation
+SR-00195,Operations,Email,England,Data Request,SME Client,3,59,167,0.818,0,0,9,Fri,1,Urgent,69.5,Closed after SLA,Escalated after breach
+SR-00179,Customer Support,Email,Scotland,Onboarding,Enterprise Client,1,31,218,-0.082,1,1,9,Tue,0,Low,1.0,Closed within SLA,No escalation
+SR-00792,HR,Chat,Wales,Access,Enterprise Client,0,72,314,-0.045,1,1,17,Fri,0,Low,23.0,Closed within SLA,Team review
+SR-00497,HR,Email,Scotland,Onboarding,SME Client,0,2,166,0.252,3,2,11,Wed,0,Low,23.5,Closed within SLA,Team review
+SR-00130,IT,Email,England,Technical,Enterprise Client,2,22,258,-1.0,1,1,10,Thu,1,Urgent,68.6,Closed after SLA,Escalated after breach
+SR-00338,IT,Email,Scotland,Access,Enterprise Client,4,75,68,-0.575,0,1,7,Mon,1,Low,57.9,Closed after SLA,Team review
+SR-00125,Operations,Email,England,Data Request,Enterprise Client,2,40,283,-0.225,4,0,14,Fri,0,Urgent,30.8,Closed within SLA,Manager note
+SR-00854,Customer Support,Phone,Scotland,Onboarding,Enterprise Client,1,75,273,0.14,0,0,7,Thu,1,Standard,46.2,Closed after SLA,No escalation
+SR-00227,Operations,Email,Scotland,Technical,Internal,1,36,135,-0.357,0,0,11,Mon,0,Standard,2.4,Closed within SLA,No escalation
+SR-00269,Operations,Phone,England,Onboarding,Enterprise Client,1,46,192,0.08,4,1,9,Thu,0,Low,8.6,Closed within SLA,Manager note
+SR-00869,Operations,Portal,England,Policy,Public Sector,1,70,232,-0.126,1,1,8,Wed,1,Standard,66.6,Closed after SLA,No escalation
+SR-00104,Legal,Portal,England,Technical,Enterprise Client,3,80,147,-0.403,1,2,11,Mon,1,Standard,53.1,Closed after SLA,Team review
+SR-00762,Operations,Email,England,Technical,SME Client,2,16,80,1.0,2,1,8,Thu,0,Low,13.1,Closed within SLA,No escalation
+SR-00844,HR,Chat,Wales,Billing,Public Sector,2,54,195,-0.399,0,0,10,Mon,0,Standard,13.1,Closed within SLA,Manager note
+SR-00228,IT,Phone,England,Technical,Internal,1,77,25,0.73,2,0,8,Wed,0,Low,15.6,Closed within SLA,No escalation
+SR-00790,IT,Portal,England,Onboarding,SME Client,4,17,147,-0.481,1,2,14,Thu,1,Low,70.9,Closed after SLA,No escalation
+SR-00302,Operations,Email,England,Technical,Enterprise Client,3,40,223,-0.142,2,0,13,Tue,1,Standard,53.9,Closed after SLA,No escalation
+SR-00276,HR,Phone,England,Technical,SME Client,1,76,154,-0.327,1,0,11,Wed,1,Low,70.4,Closed after SLA,No escalation
+SR-00127,Finance,Chat,England,Onboarding,Public Sector,4,42,129,0.103,0,1,16,Mon,0,Low,36.8,Closed within SLA,Team review
+SR-00406,Customer Support,Chat,England,Technical,Internal,2,32,81,0.441,3,0,7,Tue,1,Standard,50.7,Closed after SLA,No escalation
+SR-00796,Finance,Email,Wales,Technical,SME Client,7,34,125,-0.928,2,0,9,Tue,1,Urgent,63.5,Closed after SLA,Escalated after breach
+SR-00037,Operations,Chat,England,Access,Enterprise Client,1,30,121,0.903,0,2,17,Wed,0,Low,6.9,Closed within SLA,No escalation
+SR-00140,Operations,Portal,England,Access,SME Client,3,75,284,-0.602,2,1,13,Mon,0,Low,14.7,Closed within SLA,No escalation
+SR-00304,IT,Phone,Wales,Technical,SME Client,3,23,146,0.886,1,2,19,Tue,1,Urgent,65.2,Closed after SLA,Escalated after breach
+SR-00268,Operations,Email,Northern Ireland,Billing,Internal,2,55,128,-0.214,0,1,18,Wed,0,Standard,30.2,Closed within SLA,No escalation
+SR-00534,IT,Portal,England,Access,SME Client,1,69,244,0.152,4,0,17,Thu,1,Low,61.0,Closed after SLA,No escalation
+SR-00546,HR,Email,England,Onboarding,Internal,0,34,112,0.697,4,0,14,Tue,0,Low,16.3,Closed within SLA,No escalation
+SR-00213,Operations,Email,England,Onboarding,SME Client,2,61,219,-0.714,3,0,16,Mon,0,Low,29.5,Closed within SLA,No escalation
+SR-00469,Operations,Portal,Scotland,Access,Public Sector,3,74,135,-1.0,0,0,14,Thu,1,Standard,48.4,Closed after SLA,No escalation
+SR-00199,Operations,Chat,Scotland,Technical,SME Client,2,41,164,-0.671,1,0,7,Fri,1,Urgent,72.4,Closed after SLA,Escalated after breach
+SR-00528,Legal,Portal,England,Access,SME Client,1,37,147,-0.06,0,0,19,Fri,0,Low,19.3,Closed within SLA,No escalation
+SR-00708,Customer Support,Portal,Wales,Billing,SME Client,2,81,118,-0.113,1,0,19,Thu,0,Urgent,23.2,Closed within SLA,No escalation
+SR-00242,Customer Support,Phone,Scotland,Billing,Enterprise Client,1,54,149,-0.602,4,1,19,Fri,1,Standard,59.7,Closed after SLA,No escalation
+SR-00343,Customer Support,Portal,Scotland,Technical,Internal,1,60,142,-0.871,0,1,11,Tue,1,Urgent,72.9,Closed after SLA,Escalated after breach
+SR-00550,HR,Portal,England,Onboarding,SME Client,2,83,227,0.804,1,1,9,Fri,0,Standard,2.1,Closed within SLA,No escalation
+SR-00387,IT,Portal,Scotland,Access,Internal,0,52,290,-0.017,0,0,14,Fri,1,Low,63.6,Closed after SLA,Team review
+SR-00768,Operations,Portal,England,Billing,SME Client,2,56,25,-0.643,2,0,17,Tue,0,Low,13.1,Closed within SLA,No escalation
+SR-00207,Operations,Portal,England,Data Request,Enterprise Client,2,83,262,0.496,2,0,8,Thu,1,Standard,75.3,Closed after SLA,No escalation
+SR-00296,Customer Support,Portal,England,Onboarding,Enterprise Client,2,39,286,-1.0,0,2,9,Tue,0,Standard,16.9,Closed within SLA,Team review
+SR-00686,Finance,Chat,England,Technical,Internal,2,53,222,-0.229,0,0,8,Wed,0,Low,24.0,Closed within SLA,No escalation
+SR-00074,Operations,Chat,Northern Ireland,Access,SME Client,0,75,243,0.657,2,0,17,Wed,0,Low,21.0,Closed within SLA,No escalation
+SR-00105,Customer Support,Email,England,Access,Internal,2,36,100,0.093,1,3,10,Mon,0,Low,35.1,Closed within SLA,No escalation
+SR-00813,Legal,Chat,England,Data Request,Enterprise Client,3,13,146,-0.013,0,1,11,Tue,0,Low,31.3,Closed within SLA,No escalation
+SR-00858,Customer Support,Chat,England,Data Request,SME Client,1,36,233,-0.035,0,0,19,Fri,0,Standard,8.8,Closed within SLA,No escalation
+SR-00017,IT,Portal,Scotland,Onboarding,SME Client,3,47,142,-0.57,3,0,9,Thu,0,Standard,3.8,Closed within SLA,No escalation
+SR-00440,IT,Portal,England,Billing,Enterprise Client,2,26,244,-0.216,3,0,18,Tue,1,Standard,55.6,Closed after SLA,No escalation
+SR-00092,IT,Phone,Scotland,Access,Enterprise Client,0,70,127,0.97,4,0,9,Fri,0,Low,42.9,Closed within SLA,No escalation
+SR-00089,Operations,Portal,Wales,Data Request,Enterprise Client,2,42,165,-0.942,1,0,17,Thu,0,Low,27.3,Closed within SLA,Team review
+SR-00451,Operations,Phone,England,Access,Public Sector,2,48,199,0.792,3,0,18,Wed,0,Low,22.5,Closed within SLA,Manager note
+SR-00103,Finance,Portal,Scotland,Access,SME Client,3,80,197,-0.364,2,1,19,Wed,1,Low,60.2,Closed after SLA,Team review
+SR-00239,Operations,Portal,England,Billing,Enterprise Client,0,62,227,0.771,0,0,15,Wed,0,Low,24.4,Closed within SLA,No escalation
+SR-00643,Operations,Portal,England,Access,SME Client,3,29,211,0.101,1,0,19,Thu,1,Standard,41.3,Closed after SLA,No escalation
+SR-00247,IT,Phone,England,Billing,Enterprise Client,2,29,263,-0.088,1,1,14,Tue,0,Low,1.0,Closed within SLA,No escalation
+SR-00635,Operations,Portal,England,Billing,Internal,4,51,116,-0.306,0,0,7,Thu,0,Low,12.9,Closed within SLA,No escalation
+SR-00158,IT,Portal,England,Onboarding,Internal,1,45,164,-0.132,2,0,12,Thu,0,Low,24.6,Closed within SLA,Team review
+SR-00480,HR,Email,England,Onboarding,SME Client,6,74,104,-0.112,3,1,10,Mon,1,Standard,30.2,Closed after SLA,Team review
+SR-00754,HR,Portal,Northern Ireland,Access,Internal,1,46,177,0.388,1,2,14,Mon,0,Low,33.7,Closed within SLA,No escalation
+SR-00734,Finance,Phone,England,Billing,SME Client,3,34,169,0.032,0,1,17,Tue,1,Standard,88.1,Closed after SLA,No escalation
+SR-00019,Customer Support,Portal,England,Access,Internal,1,78,168,-0.111,0,1,14,Thu,0,Low,36.3,Closed within SLA,No escalation
+SR-00717,IT,Portal,England,Technical,Public Sector,1,66,82,-0.207,2,0,18,Wed,1,Urgent,57.0,Closed after SLA,Escalated after breach
+SR-00122,IT,Phone,England,Technical,SME Client,1,46,116,-0.473,0,0,9,Tue,1,Urgent,68.1,Closed after SLA,Escalated after breach
+SR-00628,Operations,Email,England,Policy,Internal,4,31,208,-0.43,1,0,8,Thu,1,Low,86.1,Closed after SLA,No escalation
+SR-00275,IT,Email,England,Onboarding,Public Sector,4,50,108,0.65,1,1,13,Wed,0,Standard,1.0,Closed within SLA,No escalation
+SR-00434,Customer Support,Chat,Northern Ireland,Access,SME Client,3,54,77,0.387,2,1,7,Thu,0,Low,24.6,Closed within SLA,No escalation
+SR-00800,IT,Phone,Northern Ireland,Policy,Enterprise Client,1,33,289,-0.519,1,0,8,Wed,0,Low,29.3,Closed within SLA,No escalation
+SR-00312,HR,Phone,England,Policy,SME Client,0,77,322,-0.142,0,0,7,Fri,0,Standard,21.0,Closed within SLA,No escalation
+SR-00677,Customer Support,Phone,England,Access,SME Client,1,40,182,0.964,2,0,10,Thu,0,Low,9.8,Closed within SLA,No escalation
+SR-00744,Operations,Portal,England,Billing,Internal,2,69,337,0.116,1,1,12,Wed,0,Low,29.4,Closed within SLA,No escalation
+SR-00547,HR,Chat,Wales,Billing,Internal,2,34,225,0.47,4,0,18,Tue,0,Standard,10.7,Closed within SLA,No escalation
+SR-00182,Customer Support,Chat,England,Access,Enterprise Client,1,18,175,0.07,0,0,19,Tue,0,Urgent,37.5,Closed within SLA,No escalation
+SR-00185,Customer Support,Chat,England,Onboarding,SME Client,2,59,163,0.879,0,0,11,Wed,0,Low,16.6,Closed within SLA,No escalation
+SR-00407,Finance,Email,England,Billing,SME Client,0,75,139,0.371,2,1,17,Thu,1,Urgent,71.7,Closed after SLA,Escalated after breach
+SR-00607,Customer Support,Phone,England,Access,Internal,2,32,257,-0.252,3,1,12,Wed,1,Urgent,45.1,Closed after SLA,Escalated after breach
+SR-00521,Customer Support,Phone,England,Billing,Public Sector,0,3,25,-1.0,2,0,14,Thu,0,Urgent,22.6,Closed within SLA,Team review
+SR-00381,IT,Portal,Scotland,Billing,Internal,3,4,122,-0.236,0,0,16,Tue,0,Standard,1.0,Closed within SLA,No escalation
+SR-00411,IT,Portal,Northern Ireland,Billing,Internal,3,64,209,-0.011,1,0,18,Mon,0,Standard,33.0,Closed within SLA,Team review
+SR-00370,Customer Support,Email,England,Onboarding,Internal,4,51,203,0.568,1,1,14,Thu,1,Low,48.6,Closed after SLA,No escalation
+SR-00724,Legal,Portal,England,Onboarding,Internal,0,56,188,-0.314,1,2,8,Wed,1,Low,76.9,Closed after SLA,No escalation
+SR-00819,IT,Email,Scotland,Onboarding,Internal,0,45,187,-0.021,0,0,7,Thu,0,Low,9.7,Closed within SLA,No escalation
+SR-00672,IT,Email,Wales,Access,SME Client,1,83,199,0.755,1,0,13,Tue,0,Low,26.1,Closed within SLA,No escalation
+SR-00079,IT,Email,England,Billing,Internal,1,13,170,0.118,0,0,8,Tue,1,Urgent,51.2,Closed after SLA,Escalated after breach
+SR-00574,Customer Support,Email,England,Technical,Internal,1,56,290,0.753,0,0,16,Thu,0,Low,30.5,Closed within SLA,No escalation
+SR-00638,IT,Phone,England,Policy,Public Sector,1,58,150,0.275,0,0,12,Tue,0,Urgent,26.3,Closed within SLA,Manager note
+SR-00608,Operations,Email,England,Access,Internal,2,70,135,-0.702,1,0,19,Tue,1,Standard,39.8,Closed after SLA,No escalation
+SR-00709,HR,Email,England,Onboarding,Public Sector,6,32,174,-0.716,0,0,12,Wed,1,Urgent,62.0,Closed after SLA,Escalated after breach
+SR-00883,Legal,Portal,England,Onboarding,Enterprise Client,2,11,208,0.458,2,1,8,Wed,0,Low,16.5,Closed within SLA,No escalation
+SR-00740,HR,Phone,England,Technical,Enterprise Client,0,49,196,-0.4,0,0,12,Mon,1,Urgent,78.3,Closed after SLA,Escalated after breach
+SR-00823,Finance,Phone,England,Access,Enterprise Client,3,1,235,0.091,1,0,7,Mon,0,Low,20.8,Closed within SLA,No escalation
+SR-00417,Operations,Email,England,Access,Internal,4,22,193,0.944,3,0,8,Wed,1,Low,73.7,Closed after SLA,No escalation
+SR-00661,Finance,Chat,Wales,Billing,Public Sector,1,17,271,0.095,1,0,13,Fri,0,Low,25.7,Closed within SLA,No escalation
+SR-00562,Finance,Email,England,Technical,Internal,4,65,224,-0.354,3,1,9,Fri,1,Urgent,68.2,Closed after SLA,Escalated after breach
+SR-00068,Finance,Portal,England,Technical,Internal,1,55,141,-0.519,1,0,7,Mon,1,Standard,72.7,Closed after SLA,Team review
+SR-00537,IT,Portal,Wales,Data Request,SME Client,4,19,275,0.683,1,0,8,Wed,0,Low,1.0,Closed within SLA,No escalation
+SR-00078,IT,Email,England,Onboarding,SME Client,3,16,255,-0.443,0,0,10,Tue,0,Low,22.5,Closed within SLA,Team review
+SR-00106,IT,Portal,England,Billing,Internal,2,36,231,-0.062,1,1,10,Mon,1,Standard,41.6,Closed after SLA,No escalation
+SR-00895,Customer Support,Chat,Wales,Access,Internal,2,57,193,0.2,2,1,9,Tue,1,Standard,63.2,Closed after SLA,No escalation
+SR-00695,Customer Support,Phone,Wales,Technical,Enterprise Client,2,51,153,0.627,1,0,19,Fri,0,Low,18.4,Closed within SLA,No escalation
+SR-00639,Customer Support,Phone,England,Billing,SME Client,2,7,220,-0.256,1,1,9,Tue,0,Low,18.7,Closed within SLA,No escalation
+SR-00560,HR,Portal,England,Access,Internal,4,82,162,1.0,1,0,13,Wed,0,Low,22.5,Closed within SLA,No escalation
+SR-00776,Customer Support,Chat,England,Onboarding,Internal,3,20,143,-0.726,0,1,13,Thu,1,Standard,73.1,Closed after SLA,Team review
+SR-00835,IT,Chat,England,Technical,SME Client,6,55,196,-0.728,1,0,8,Tue,1,Urgent,55.7,Closed after SLA,Escalated after breach
+SR-00778,Operations,Email,Wales,Policy,Internal,0,23,179,-0.796,1,0,9,Mon,1,Standard,56.8,Closed after SLA,Team review
+SR-00693,Operations,Chat,England,Data Request,Internal,3,67,208,-0.867,0,1,16,Thu,0,Low,24.0,Closed within SLA,No escalation
+SR-00491,IT,Chat,Northern Ireland,Access,Internal,4,11,223,-1.0,2,0,18,Fri,1,Standard,73.6,Closed after SLA,No escalation
+SR-00887,HR,Portal,England,Billing,Enterprise Client,3,79,194,0.533,3,1,19,Thu,0,Low,9.5,Closed within SLA,No escalation
+SR-00753,Finance,Portal,England,Access,Enterprise Client,1,83,259,-0.359,2,1,15,Fri,1,Low,78.2,Closed after SLA,No escalation
+SR-00606,Customer Support,Email,England,Access,Enterprise Client,2,5,140,-0.933,1,0,9,Fri,1,Urgent,71.9,Closed after SLA,Escalated after breach
+SR-00364,Operations,Chat,England,Policy,Internal,1,71,295,0.305,1,1,9,Fri,0,Low,1.0,Closed within SLA,No escalation
+SR-00070,HR,Portal,Scotland,Data Request,SME Client,3,40,151,0.553,2,1,7,Thu,1,Low,65.4,Closed after SLA,No escalation
+SR-00549,Customer Support,Email,England,Policy,SME Client,1,3,106,-0.74,3,1,7,Thu,0,Low,8.6,Closed within SLA,No escalation
+SR-00161,Operations,Chat,England,Onboarding,Public Sector,1,2,89,-0.201,0,1,19,Wed,1,Standard,66.2,Closed after SLA,No escalation
+SR-00012,Customer Support,Chat,England,Billing,Internal,1,74,244,0.493,3,0,17,Thu,0,Low,31.1,Closed within SLA,Team review
+SR-00145,HR,Portal,Scotland,Access,Internal,3,51,113,-0.362,0,0,12,Wed,0,Low,7.3,Closed within SLA,No escalation
+SR-00518,Customer Support,Email,Scotland,Access,Public Sector,1,47,59,1.0,1,1,15,Thu,0,Low,3.7,Closed within SLA,No escalation
+SR-00428,Customer Support,Email,England,Access,Enterprise Client,4,23,260,-0.037,1,1,7,Tue,1,Urgent,61.0,Closed after SLA,Escalated after breach
+SR-00640,Customer Support,Email,Scotland,Onboarding,Enterprise Client,3,22,85,0.032,0,0,10,Tue,1,Urgent,63.7,Closed after SLA,Escalated after breach
+SR-00177,HR,Email,England,Billing,Enterprise Client,3,52,279,0.383,1,0,9,Fri,0,Low,40.2,Closed within SLA,No escalation
+SR-00441,Customer Support,Portal,England,Billing,SME Client,3,40,195,-0.112,1,0,15,Tue,0,Standard,14.7,Closed within SLA,No escalation
+SR-00522,Finance,Email,England,Technical,Enterprise Client,2,13,122,-0.876,1,0,10,Tue,1,Urgent,76.3,Closed after SLA,Escalated after breach
+SR-00779,Customer Support,Chat,England,Data Request,Public Sector,2,64,140,-1.0,1,0,8,Fri,1,Standard,69.5,Closed after SLA,No escalation
+SR-00839,HR,Email,Scotland,Access,Internal,3,58,183,0.439,1,0,15,Mon,1,Low,43.1,Closed after SLA,No escalation
+SR-00232,HR,Email,England,Access,Enterprise Client,0,68,277,0.081,2,0,11,Tue,1,Standard,55.7,Closed after SLA,Team review
+SR-00211,IT,Portal,England,Technical,SME Client,0,48,280,0.711,0,0,16,Wed,1,Urgent,91.1,Closed after SLA,Escalated after breach
+SR-00641,Customer Support,Phone,Northern Ireland,Billing,Enterprise Client,2,39,132,0.377,2,2,7,Fri,0,Low,12.0,Closed within SLA,Manager note
+SR-00144,IT,Phone,England,Billing,SME Client,6,27,170,0.873,2,0,17,Mon,1,Standard,73.1,Closed after SLA,No escalation
+SR-00520,Customer Support,Chat,Wales,Billing,SME Client,1,32,251,-0.299,2,0,12,Tue,0,Low,10.5,Closed within SLA,No escalation
+SR-00893,Finance,Portal,Wales,Technical,Public Sector,2,66,164,0.528,3,0,11,Tue,0,Standard,2.6,Closed within SLA,No escalation
+SR-00299,Customer Support,Portal,England,Data Request,Internal,2,38,136,0.952,2,1,18,Wed,1,Low,61.6,Closed after SLA,Team review
+SR-00429,Operations,Portal,England,Technical,SME Client,0,39,221,0.364,3,1,18,Mon,0,Low,30.9,Closed within SLA,No escalation
+SR-00613,Legal,Email,England,Onboarding,SME Client,3,78,205,0.85,1,0,18,Thu,0,Low,12.1,Closed within SLA,No escalation
+SR-00827,IT,Portal,England,Access,Internal,1,3,225,0.454,3,1,18,Fri,1,Low,66.2,Closed after SLA,Team review
+SR-00009,Operations,Portal,England,Access,Internal,5,49,179,0.592,2,0,13,Wed,1,Low,41.7,Closed after SLA,Manager note
+SR-00157,Finance,Chat,England,Technical,Internal,2,19,25,0.325,2,1,17,Wed,1,Low,43.1,Closed after SLA,No escalation
+SR-00540,Customer Support,Chat,England,Billing,Enterprise Client,3,74,272,-0.348,0,1,18,Mon,0,Low,12.8,Closed within SLA,No escalation
+SR-00507,Finance,Chat,England,Access,Enterprise Client,2,68,89,0.054,2,1,12,Tue,0,Low,9.2,Closed within SLA,No escalation
+SR-00437,Operations,Portal,England,Policy,Internal,1,40,114,-0.593,5,1,16,Thu,0,Low,19.8,Closed within SLA,No escalation
+SR-00267,Finance,Phone,England,Billing,SME Client,2,30,152,0.525,1,2,15,Thu,0,Standard,31.3,Closed within SLA,No escalation
+SR-00462,Operations,Portal,Northern Ireland,Data Request,Enterprise Client,1,25,250,0.684,3,1,9,Tue,0,Low,27.1,Closed within SLA,Team review
+SR-00577,Customer Support,Email,Wales,Onboarding,Enterprise Client,1,23,333,-0.316,3,0,15,Fri,1,Standard,30.1,Closed after SLA,Manager note
+SR-00339,Operations,Portal,Scotland,Access,SME Client,0,56,181,0.162,3,0,19,Fri,0,Low,44.4,Closed within SLA,No escalation
+SR-00256,Customer Support,Portal,England,Billing,Internal,5,51,127,-0.666,1,0,10,Mon,1,Low,62.9,Closed after SLA,No escalation
+SR-00719,IT,Chat,England,Access,Public Sector,0,58,81,-0.468,0,0,14,Tue,1,Standard,59.8,Closed after SLA,No escalation
+SR-00759,Operations,Portal,England,Access,SME Client,4,64,67,-0.078,3,0,9,Mon,1,Standard,53.4,Closed after SLA,No escalation
+SR-00666,IT,Email,Scotland,Billing,SME Client,2,12,271,0.282,0,1,14,Mon,1,Urgent,44.6,Closed after SLA,Escalated after breach
+SR-00561,Operations,Phone,Scotland,Access,SME Client,1,58,211,0.281,0,1,14,Wed,1,Low,43.3,Closed after SLA,No escalation
+SR-00209,Operations,Chat,England,Data Request,Public Sector,1,78,139,0.692,3,1,16,Fri,0,Low,17.7,Closed within SLA,Manager note
+SR-00288,Finance,Chat,England,Onboarding,Enterprise Client,2,50,229,-0.9,1,1,17,Wed,0,Low,28.6,Closed within SLA,No escalation
+SR-00002,HR,Portal,England,Onboarding,Internal,3,81,318,-0.949,3,0,15,Fri,1,Standard,58.8,Closed after SLA,No escalation
+SR-00342,Legal,Portal,England,Data Request,Internal,1,28,301,0.427,2,0,12,Wed,0,Low,25.5,Closed within SLA,No escalation
+SR-00270,Operations,Portal,England,Access,SME Client,3,41,180,0.718,3,1,11,Mon,0,Low,1.0,Closed within SLA,Manager note
+SR-00266,Operations,Chat,Wales,Onboarding,Internal,3,10,61,-0.334,2,1,7,Wed,0,Low,40.5,Closed within SLA,No escalation
+SR-00767,Operations,Phone,England,Technical,SME Client,1,29,126,-0.459,1,1,10,Wed,1,Standard,73.9,Closed after SLA,No escalation
+SR-00733,Operations,Email,England,Data Request,Internal,3,43,228,-0.175,2,0,13,Tue,1,Standard,44.0,Closed after SLA,No escalation
+SR-00096,IT,Email,England,Onboarding,SME Client,1,69,49,-0.606,2,1,13,Fri,0,Low,1.0,Closed within SLA,No escalation
+SR-00864,IT,Portal,England,Access,Public Sector,1,3,144,0.278,1,1,19,Thu,0,Standard,1.0,Closed within SLA,No escalation
+SR-00043,IT,Portal,England,Access,Enterprise Client,2,62,251,0.405,5,1,9,Mon,0,Low,17.1,Closed within SLA,Team review
+SR-00718,Operations,Email,England,Technical,Enterprise Client,0,2,216,-0.107,1,0,12,Fri,0,Low,17.5,Closed within SLA,No escalation
+SR-00891,Finance,Phone,Northern Ireland,Technical,SME Client,2,21,89,1.0,2,0,7,Mon,1,Low,84.7,Closed after SLA,No escalation
+SR-00743,Customer Support,Email,England,Access,SME Client,4,56,96,0.288,0,0,13,Wed,1,Urgent,50.1,Closed after SLA,Escalated after breach
+SR-00629,IT,Portal,England,Onboarding,SME Client,3,8,103,-0.676,6,1,8,Fri,1,Low,54.7,Closed after SLA,Team review
+SR-00046,Customer Support,Portal,England,Technical,Enterprise Client,1,22,146,0.157,0,0,13,Wed,1,Standard,57.6,Closed after SLA,No escalation
+SR-00162,Customer Support,Email,England,Onboarding,Internal,2,80,98,-0.098,1,0,12,Tue,0,Low,41.0,Closed within SLA,No escalation
+SR-00630,Customer Support,Portal,Scotland,Billing,Internal,3,3,102,-1.0,1,1,17,Mon,0,Low,14.3,Closed within SLA,No escalation
+SR-00289,IT,Portal,England,Access,Public Sector,1,29,151,0.39,1,0,16,Mon,1,Urgent,81.1,Closed after SLA,Escalated after breach
+SR-00590,Operations,Email,England,Onboarding,SME Client,1,27,168,-0.237,3,0,12,Tue,0,Low,41.1,Closed within SLA,No escalation
+SR-00798,Operations,Phone,England,Technical,Enterprise Client,0,72,203,0.138,2,0,10,Mon,1,Urgent,75.9,Closed after SLA,Escalated after breach
+SR-00849,Operations,Email,England,Access,SME Client,2,37,232,0.091,2,1,19,Mon,0,Low,35.1,Closed within SLA,Manager note
+SR-00576,HR,Email,England,Technical,SME Client,2,35,229,0.628,4,2,10,Wed,1,Standard,64.5,Closed after SLA,Manager note
+SR-00316,Finance,Email,Wales,Technical,Internal,1,64,143,-0.143,0,0,10,Fri,0,Low,16.1,Closed within SLA,No escalation
+SR-00231,Operations,Chat,England,Technical,SME Client,1,61,212,0.822,2,0,11,Mon,1,Standard,60.0,Closed after SLA,Team review
+SR-00699,IT,Phone,Scotland,Technical,SME Client,5,5,109,0.362,1,0,10,Tue,1,Standard,69.1,Closed after SLA,No escalation
+SR-00737,Operations,Email,Scotland,Billing,Internal,3,33,140,-0.079,3,0,10,Thu,1,Standard,53.0,Closed after SLA,Manager note
+SR-00712,IT,Phone,England,Access,Enterprise Client,1,56,149,-0.532,0,1,9,Mon,0,Standard,22.8,Closed within SLA,No escalation
+SR-00077,Finance,Email,England,Technical,Internal,2,35,142,-0.615,0,0,8,Mon,0,Low,19.1,Closed within SLA,No escalation
+SR-00634,Finance,Phone,England,Billing,Enterprise Client,3,28,136,-1.0,0,1,12,Tue,1,Standard,46.6,Closed after SLA,Manager note
+SR-00868,Customer Support,Portal,England,Onboarding,Enterprise Client,1,47,203,-0.19,2,0,16,Mon,1,Low,61.2,Closed after SLA,No escalation
+SR-00248,HR,Phone,England,Technical,Enterprise Client,1,41,96,-0.428,3,3,8,Fri,1,Urgent,58.5,Closed after SLA,Escalated after breach
+SR-00477,HR,Email,England,Policy,Enterprise Client,4,8,203,1.0,2,1,13,Fri,1,Standard,64.9,Closed after SLA,Team review
+SR-00671,Operations,Email,England,Policy,Public Sector,1,14,193,-0.293,0,0,8,Wed,0,Urgent,13.4,Closed within SLA,No escalation
+SR-00086,Operations,Chat,England,Technical,Internal,2,76,137,-0.506,2,1,13,Wed,0,Low,23.5,Closed within SLA,No escalation
+SR-00470,HR,Portal,Wales,Technical,Internal,1,76,268,0.621,6,0,9,Tue,1,Urgent,95.5,Closed after SLA,Escalated after breach
+SR-00226,Customer Support,Email,England,Technical,SME Client,2,19,230,0.1,2,0,10,Thu,0,Urgent,47.1,Closed within SLA,No escalation
+SR-00332,Operations,Email,Scotland,Access,SME Client,2,83,338,-0.769,0,2,13,Wed,1,Low,44.1,Closed after SLA,No escalation
+SR-00234,IT,Phone,England,Policy,SME Client,4,60,249,1.0,2,1,19,Fri,0,Urgent,26.0,Closed within SLA,No escalation
+SR-00589,Operations,Chat,Scotland,Access,Internal,1,46,132,-0.541,1,0,14,Mon,1,Low,48.1,Closed after SLA,No escalation
+SR-00476,Finance,Portal,England,Access,SME Client,5,37,218,-0.804,3,1,19,Fri,0,Standard,22.6,Closed within SLA,No escalation
+SR-00797,Operations,Portal,England,Technical,Internal,1,67,165,0.827,2,0,19,Fri,1,Standard,38.3,Closed after SLA,No escalation
+SR-00780,Customer Support,Email,Wales,Onboarding,Internal,3,4,143,0.018,1,0,18,Thu,1,Standard,59.9,Closed after SLA,Team review
+SR-00600,IT,Phone,England,Access,Internal,1,5,105,-0.274,1,0,11,Wed,1,Standard,57.9,Closed after SLA,No escalation
+SR-00422,Operations,Email,England,Billing,Internal,1,43,62,-0.981,5,1,8,Wed,0,Standard,1.0,Closed within SLA,No escalation
+SR-00688,Legal,Email,Scotland,Data Request,Internal,1,43,158,0.179,1,2,10,Mon,1,Standard,58.6,Closed after SLA,No escalation
+SR-00183,IT,Chat,Wales,Onboarding,Public Sector,1,10,266,0.463,1,0,14,Mon,0,Standard,19.5,Closed within SLA,No escalation
+SR-00618,Finance,Chat,England,Access,Internal,2,10,155,0.281,1,1,17,Fri,1,Low,58.2,Closed after SLA,No escalation
+SR-00333,IT,Portal,Northern Ireland,Billing,SME Client,1,23,178,0.461,3,0,11,Wed,1,Low,71.1,Closed after SLA,No escalation
+SR-00439,Customer Support,Chat,England,Technical,SME Client,1,75,246,0.049,0,0,18,Thu,1,Standard,56.9,Closed after SLA,No escalation
+SR-00050,Operations,Portal,Scotland,Access,Public Sector,3,4,226,1.0,1,0,16,Wed,1,Low,52.8,Closed after SLA,Manager note
+SR-00006,Legal,Email,England,Onboarding,Internal,1,23,150,0.428,2,0,14,Tue,0,Low,14.8,Closed within SLA,Team review
+SR-00530,Finance,Email,England,Onboarding,Public Sector,1,31,102,0.089,1,1,17,Tue,1,Urgent,59.9,Closed after SLA,Escalated after breach
+SR-00235,Legal,Chat,England,Technical,Internal,0,61,190,0.263,1,1,8,Mon,0,Low,11.5,Closed within SLA,No escalation
+SR-00487,HR,Phone,Wales,Technical,SME Client,1,34,329,-0.565,1,1,14,Thu,0,Low,23.3,Closed within SLA,No escalation
+SR-00807,IT,Portal,England,Onboarding,Public Sector,2,31,213,-0.566,1,2,18,Thu,0,Standard,37.4,Closed within SLA,No escalation
+SR-00498,IT,Chat,England,Access,Enterprise Client,0,1,175,0.756,1,0,19,Wed,0,Low,16.6,Closed within SLA,No escalation
+SR-00803,Customer Support,Portal,England,Access,Internal,0,31,154,-0.327,1,1,13,Fri,0,Low,1.0,Closed within SLA,No escalation
+SR-00107,HR,Chat,England,Billing,Internal,3,34,237,-0.028,0,1,19,Mon,0,Low,21.6,Closed within SLA,No escalation
+SR-00444,Operations,Email,England,Access,Public Sector,1,5,201,-0.73,3,3,17,Thu,1,Urgent,71.4,Closed after SLA,Escalated after breach
+SR-00489,IT,Chat,England,Access,Internal,1,10,175,0.083,2,0,15,Wed,0,Low,1.0,Closed within SLA,No escalation
+SR-00647,Operations,Portal,England,Technical,Public Sector,1,81,168,-0.512,3,0,12,Fri,1,Low,55.8,Closed after SLA,No escalation
+SR-00013,IT,Chat,Scotland,Billing,Enterprise Client,2,36,197,0.069,1,0,8,Thu,0,Low,1.3,Closed within SLA,Team review
+SR-00739,HR,Portal,England,Access,SME Client,1,25,164,-0.618,1,1,15,Fri,0,Low,19.2,Closed within SLA,Team review
+SR-00727,Finance,Portal,Wales,Access,Internal,4,34,137,-0.727,1,0,7,Wed,1,Standard,56.5,Closed after SLA,No escalation
+SR-00191,Legal,Portal,England,Access,Internal,5,44,175,-0.694,0,2,18,Thu,1,Urgent,76.9,Closed after SLA,Escalated after breach
+SR-00845,Operations,Phone,England,Billing,Internal,5,1,130,0.135,1,2,8,Fri,0,Low,12.6,Closed within SLA,Manager note
+SR-00283,Operations,Portal,England,Access,Enterprise Client,3,1,254,-0.193,1,1,16,Wed,0,Low,16.7,Closed within SLA,Manager note
+SR-00030,IT,Phone,England,Policy,Internal,3,46,238,0.052,0,0,16,Thu,1,Standard,40.7,Closed after SLA,No escalation
+SR-00170,Legal,Email,England,Access,Enterprise Client,2,64,195,-0.809,2,1,16,Fri,0,Low,42.3,Closed within SLA,No escalation
+SR-00181,Customer Support,Portal,Wales,Access,Internal,1,37,197,-0.176,1,0,18,Fri,0,Low,33.9,Closed within SLA,Team review
+SR-00101,Customer Support,Portal,England,Data Request,Public Sector,0,6,197,0.438,0,1,7,Wed,0,Urgent,36.1,Closed within SLA,No escalation
+SR-00198,Customer Support,Phone,England,Access,Enterprise Client,3,63,330,0.178,2,0,14,Wed,1,Urgent,87.4,Closed after SLA,Escalated after breach
+SR-00496,IT,Portal,England,Billing,Internal,2,30,96,0.164,1,1,15,Thu,0,Low,19.1,Closed within SLA,No escalation
+SR-00722,HR,Email,England,Billing,SME Client,0,42,180,-0.194,0,1,11,Tue,0,Low,28.9,Closed within SLA,No escalation
+SR-00648,IT,Phone,England,Technical,Internal,2,59,159,-0.048,0,1,7,Fri,0,Standard,13.6,Closed within SLA,No escalation
+SR-00873,Legal,Email,England,Billing,Enterprise Client,1,63,142,-0.146,5,0,10,Wed,0,Low,7.9,Closed within SLA,No escalation
+SR-00832,IT,Portal,England,Access,Public Sector,1,39,209,-1.0,3,0,19,Thu,1,Urgent,50.7,Closed after SLA,Escalated after breach
+SR-00711,Legal,Portal,England,Technical,SME Client,1,55,144,1.0,1,0,14,Wed,1,Low,58.7,Closed after SLA,No escalation
+SR-00374,Finance,Email,England,Technical,Internal,3,5,72,0.304,3,0,7,Wed,0,Low,1.0,Closed within SLA,Manager note
+SR-00679,Operations,Chat,England,Onboarding,Internal,2,51,273,-0.432,3,1,9,Fri,1,Low,76.8,Closed after SLA,No escalation
+SR-00793,Finance,Portal,England,Policy,SME Client,0,22,42,-0.648,0,1,7,Fri,1,Urgent,80.2,Closed after SLA,Escalated after breach
+SR-00649,IT,Portal,England,Technical,Internal,1,58,150,-0.162,0,0,8,Tue,1,Urgent,82.9,Closed after SLA,Escalated after breach
+SR-00461,IT,Phone,England,Data Request,Public Sector,1,2,257,-0.179,1,0,11,Fri,1,Standard,80.7,Closed after SLA,No escalation
+SR-00414,Customer Support,Portal,England,Technical,Internal,1,33,266,-0.79,0,1,12,Tue,1,Urgent,84.1,Closed after SLA,Escalated after breach
+SR-00132,Customer Support,Phone,England,Onboarding,Public Sector,3,2,82,0.06,1,0,19,Wed,0,Urgent,17.3,Closed within SLA,Team review
+SR-00040,IT,Portal,Scotland,Onboarding,SME Client,3,45,61,1.0,0,0,7,Mon,0,Standard,1.0,Closed within SLA,No escalation
+SR-00435,Operations,Chat,Scotland,Technical,Internal,2,22,232,0.542,1,2,17,Fri,1,Low,47.4,Closed after SLA,No escalation
+SR-00216,Customer Support,Portal,England,Access,SME Client,1,12,83,0.711,2,1,15,Fri,0,Low,1.0,Closed within SLA,No escalation
+SR-00556,Operations,Portal,Scotland,Technical,Internal,1,48,248,-0.232,4,1,15,Fri,0,Low,1.0,Closed within SLA,No escalation
+SR-00567,Customer Support,Email,England,Access,Internal,0,65,204,0.299,2,0,12,Thu,1,Urgent,89.9,Closed after SLA,Escalated after breach
+SR-00763,Operations,Phone,Scotland,Access,Enterprise Client,0,56,196,0.721,0,1,12,Tue,0,Low,15.1,Closed within SLA,Manager note
+SR-00475,Finance,Chat,Wales,Technical,Internal,3,5,269,0.004,2,1,12,Tue,0,Low,15.8,Closed within SLA,Team review
+SR-00457,Legal,Email,Wales,Access,Internal,2,53,143,-0.429,0,1,8,Tue,0,Urgent,22.5,Closed within SLA,No escalation
+SR-00261,Operations,Portal,Northern Ireland,Technical,SME Client,3,42,75,0.034,2,0,11,Thu,0,Low,21.7,Closed within SLA,Team review
+SR-00036,Operations,Portal,England,Onboarding,Internal,4,5,203,-0.193,1,0,16,Wed,1,Low,70.6,Closed after SLA,No escalation
+SR-00310,Operations,Email,England,Technical,Enterprise Client,2,42,235,0.687,1,1,11,Wed,1,Standard,53.0,Closed after SLA,No escalation
+SR-00277,Finance,Email,Northern Ireland,Technical,Internal,0,48,93,0.824,1,1,15,Tue,1,Low,74.2,Closed after SLA,Team review
+SR-00637,IT,Phone,England,Onboarding,SME Client,4,62,243,-0.516,0,0,8,Mon,1,Standard,72.3,Closed after SLA,No escalation
+SR-00655,Customer Support,Portal,England,Onboarding,Enterprise Client,0,82,207,-0.936,3,0,10,Fri,0,Low,18.7,Closed within SLA,Manager note
+SR-00623,Legal,Chat,Scotland,Technical,Internal,3,66,180,0.35,0,1,18,Fri,1,Low,80.7,Closed after SLA,No escalation
+SR-00394,IT,Portal,England,Data Request,Internal,5,39,194,0.011,5,1,17,Thu,1,Urgent,72.8,Closed after SLA,Escalated after breach
+SR-00841,Operations,Portal,England,Policy,Internal,2,1,300,-0.974,0,0,8,Fri,0,Low,12.4,Closed within SLA,No escalation
+SR-00108,Finance,Portal,England,Technical,Enterprise Client,1,30,246,-0.046,0,1,19,Thu,0,Low,15.8,Closed within SLA,Team review
+SR-00847,HR,Phone,Scotland,Onboarding,SME Client,1,48,201,0.528,1,2,10,Tue,1,Standard,71.6,Closed after SLA,No escalation
+SR-00525,Operations,Portal,England,Access,Public Sector,0,62,143,-0.154,0,0,19,Mon,0,Low,13.4,Closed within SLA,No escalation
+SR-00785,Legal,Portal,England,Technical,Enterprise Client,1,63,188,-0.413,0,0,7,Mon,1,Standard,72.0,Closed after SLA,No escalation
+SR-00048,Finance,Chat,England,Access,SME Client,1,11,176,-0.267,3,0,10,Fri,0,Low,34.7,Closed within SLA,No escalation
+SR-00204,Operations,Phone,England,Data Request,Internal,2,14,71,-0.114,3,0,14,Wed,1,Standard,68.6,Closed after SLA,No escalation
+SR-00829,Customer Support,Portal,England,Policy,Internal,2,46,245,-0.242,1,0,8,Fri,1,Standard,75.2,Closed after SLA,No escalation
+SR-00632,Customer Support,Portal,England,Billing,Internal,1,76,216,-0.402,0,0,8,Fri,1,Standard,60.5,Closed after SLA,Team review
+SR-00022,Finance,Phone,England,Technical,Internal,3,54,178,-0.125,1,1,8,Thu,0,Low,29.1,Closed within SLA,Team review
+SR-00403,Customer Support,Phone,Wales,Data Request,Public Sector,4,58,189,-0.048,2,2,12,Fri,0,Urgent,33.8,Closed within SLA,No escalation
+SR-00084,Operations,Email,Scotland,Billing,SME Client,1,66,266,0.3,3,1,10,Mon,0,Low,26.4,Closed within SLA,No escalation
+SR-00131,Operations,Email,England,Billing,Public Sector,4,17,172,0.081,2,1,10,Mon,1,Standard,71.5,Closed after SLA,No escalation
+SR-00416,Finance,Phone,England,Technical,SME Client,3,4,148,0.361,1,0,11,Mon,1,Standard,62.3,Closed after SLA,No escalation
+SR-00742,Operations,Portal,England,Access,Internal,2,27,240,-0.181,1,3,10,Thu,0,Low,36.6,Closed within SLA,No escalation
+SR-00698,IT,Portal,England,Access,SME Client,2,39,238,-0.439,0,2,12,Fri,1,Standard,47.2,Closed after SLA,No escalation
+SR-00287,Operations,Portal,England,Access,Public Sector,2,23,179,-0.874,1,0,19,Wed,1,Low,73.5,Closed after SLA,Team review
+SR-00124,HR,Email,England,Data Request,SME Client,4,11,252,-0.227,3,0,8,Mon,1,Urgent,72.2,Closed after SLA,Escalated after breach
+SR-00034,Finance,Phone,England,Billing,SME Client,6,73,161,-0.455,1,1,9,Tue,0,Standard,34.0,Closed within SLA,No escalation
+SR-00875,IT,Email,England,Billing,SME Client,3,57,85,1.0,1,1,13,Thu,0,Standard,26.9,Closed within SLA,Team review
+SR-00517,Finance,Email,England,Billing,SME Client,2,35,176,0.703,3,0,11,Fri,0,Standard,16.3,Closed within SLA,Manager note
+SR-00020,IT,Email,England,Onboarding,Public Sector,3,75,98,-0.758,2,0,19,Wed,1,Urgent,71.0,Closed after SLA,Escalated after breach
+SR-00830,Finance,Portal,England,Onboarding,Internal,0,43,167,-0.264,2,1,8,Fri,0,Standard,21.4,Closed within SLA,No escalation
+SR-00220,HR,Chat,England,Technical,Enterprise Client,3,37,207,0.365,0,1,9,Thu,0,Low,26.1,Closed within SLA,No escalation
+SR-00896,Customer Support,Portal,England,Data Request,SME Client,2,80,259,0.11,2,1,15,Mon,1,Urgent,76.0,Closed after SLA,Escalated after breach
+SR-00482,Operations,Portal,England,Billing,Internal,1,4,276,-0.571,1,0,12,Tue,1,Standard,81.8,Closed after SLA,Manager note
+SR-00357,Customer Support,Phone,England,Technical,Public Sector,2,82,170,0.763,1,0,9,Wed,0,Standard,25.1,Closed within SLA,No escalation
+SR-00662,Customer Support,Email,England,Billing,Public Sector,4,66,193,0.186,0,1,8,Wed,1,Urgent,72.7,Closed after SLA,Escalated after breach
+SR-00225,Finance,Email,England,Access,Enterprise Client,4,9,111,0.698,2,0,10,Tue,1,Low,48.3,Closed after SLA,No escalation
+SR-00760,HR,Portal,England,Technical,Enterprise Client,1,43,200,-0.038,1,1,15,Mon,0,Low,32.9,Closed within SLA,Team review
+SR-00093,HR,Phone,England,Technical,Internal,1,73,159,-0.943,1,0,10,Wed,1,Urgent,65.6,Closed after SLA,Escalated after breach
+SR-00152,Customer Support,Portal,England,Onboarding,SME Client,2,22,219,-0.357,0,0,7,Thu,0,Low,33.1,Closed within SLA,No escalation
+SR-00881,HR,Portal,Scotland,Technical,SME Client,1,70,181,-0.325,1,0,11,Tue,0,Standard,10.9,Closed within SLA,No escalation
+SR-00318,IT,Email,England,Access,SME Client,1,25,231,0.965,3,0,19,Wed,1,Low,68.6,Closed after SLA,No escalation
+SR-00449,Operations,Email,England,Policy,SME Client,1,27,170,-0.852,0,0,10,Wed,1,Urgent,80.3,Closed after SLA,Escalated after breach
+SR-00804,IT,Email,Scotland,Technical,Internal,4,23,128,0.16,2,0,8,Wed,0,Urgent,24.7,Closed within SLA,No escalation
+SR-00746,HR,Email,England,Billing,Public Sector,2,10,294,-1.0,0,0,8,Thu,0,Low,5.8,Closed within SLA,Team review
+SR-00523,Operations,Email,England,Technical,Public Sector,0,50,172,0.905,3,0,19,Fri,1,Standard,64.8,Closed after SLA,Manager note
+SR-00280,Customer Support,Portal,England,Policy,SME Client,7,1,124,0.122,1,0,13,Wed,1,Standard,74.9,Closed after SLA,Manager note
+SR-00584,HR,Portal,England,Access,SME Client,1,57,129,-1.0,1,0,12,Fri,1,Low,59.0,Closed after SLA,No escalation
+SR-00765,Customer Support,Chat,England,Technical,Enterprise Client,2,48,238,0.396,0,0,12,Wed,0,Standard,15.7,Closed within SLA,Manager note
+SR-00605,Legal,Phone,Scotland,Technical,Enterprise Client,5,80,219,0.642,0,0,9,Wed,1,Standard,76.6,Closed after SLA,Team review
+SR-00350,Operations,Chat,England,Billing,Internal,0,42,204,-0.178,1,1,15,Wed,0,Low,22.2,Closed within SLA,No escalation
+SR-00375,Operations,Portal,England,Policy,Internal,1,56,323,-0.16,0,0,14,Fri,1,Low,68.4,Closed after SLA,No escalation
+SR-00401,Finance,Portal,England,Data Request,Enterprise Client,5,48,173,1.0,0,0,8,Tue,0,Standard,16.8,Closed within SLA,No escalation
+SR-00705,Finance,Portal,England,Policy,Internal,2,18,150,-0.666,2,1,13,Wed,0,Low,39.1,Closed within SLA,Manager note
+SR-00258,Operations,Portal,England,Access,SME Client,2,80,249,-1.0,1,0,16,Fri,1,Low,53.6,Closed after SLA,No escalation
+SR-00852,Operations,Portal,England,Onboarding,Public Sector,0,23,173,0.218,2,0,17,Mon,0,Standard,34.4,Closed within SLA,Team review
+SR-00073,Customer Support,Portal,Northern Ireland,Policy,Internal,2,60,124,0.605,2,1,12,Mon,0,Standard,14.4,Closed within SLA,No escalation
+SR-00196,Operations,Email,Scotland,Access,Enterprise Client,3,42,163,0.036,3,1,9,Tue,0,Standard,22.5,Closed within SLA,No escalation
+SR-00484,Finance,Chat,England,Access,Internal,2,53,229,-0.682,1,0,10,Mon,1,Low,56.9,Closed after SLA,No escalation
+SR-00856,HR,Email,Wales,Technical,Internal,0,71,198,-0.313,4,0,19,Thu,1,Low,74.6,Closed after SLA,No escalation
+SR-00138,HR,Email,England,Billing,Enterprise Client,3,72,293,0.472,2,0,11,Tue,1,Urgent,65.2,Closed after SLA,Escalated after breach
+SR-00495,Customer Support,Phone,England,Technical,Internal,2,18,265,-1.0,4,0,16,Thu,1,Urgent,73.9,Closed after SLA,Escalated after breach
+SR-00773,IT,Phone,Scotland,Onboarding,SME Client,3,61,122,0.365,4,0,11,Fri,1,Standard,75.8,Closed after SLA,Team review
+SR-00551,HR,Phone,England,Data Request,Internal,0,9,211,-0.495,3,0,9,Tue,0,Low,27.3,Closed within SLA,Team review
+SR-00463,Legal,Email,England,Access,Internal,3,46,206,0.764,2,0,10,Fri,1,Urgent,58.8,Closed after SLA,Escalated after breach
+SR-00202,Legal,Portal,England,Data Request,Internal,3,83,155,0.376,1,1,15,Fri,0,Standard,30.1,Closed within SLA,No escalation
+SR-00313,Operations,Email,England,Technical,Public Sector,1,2,143,0.472,0,0,12,Thu,0,Low,16.1,Closed within SLA,No escalation
+SR-00291,Customer Support,Email,England,Technical,Internal,2,83,123,0.215,0,0,14,Wed,0,Standard,12.5,Closed within SLA,No escalation
+SR-00190,Finance,Email,England,Access,Enterprise Client,1,9,104,-0.13,3,0,14,Wed,0,Low,23.6,Closed within SLA,Team review
+SR-00764,Operations,Portal,England,Billing,Public Sector,5,39,156,-0.261,1,1,17,Tue,1,Urgent,72.3,Closed after SLA,Escalated after breach
+SR-00113,Finance,Email,Wales,Technical,Public Sector,2,53,144,0.271,1,2,7,Tue,0,Standard,34.7,Closed within SLA,No escalation
+SR-00184,Finance,Phone,England,Billing,Internal,3,73,142,0.095,4,1,14,Tue,0,Low,30.2,Closed within SLA,Team review
+SR-00153,Operations,Portal,Scotland,Technical,SME Client,3,14,138,0.534,1,0,13,Mon,0,Low,10.3,Closed within SLA,No escalation
+SR-00825,Customer Support,Email,England,Onboarding,SME Client,4,22,125,-0.511,1,0,10,Mon,1,Low,67.6,Closed after SLA,No escalation
+SR-00326,IT,Chat,England,Access,SME Client,1,14,61,0.342,1,1,14,Thu,1,Standard,36.3,Closed after SLA,Team review
+SR-00704,Customer Support,Phone,Scotland,Policy,SME Client,2,80,289,-1.0,2,2,15,Tue,1,Standard,64.2,Closed after SLA,No escalation
+SR-00045,Customer Support,Email,England,Billing,Internal,2,47,153,0.209,1,1,16,Wed,1,Low,65.6,Closed after SLA,No escalation
+SR-00445,Finance,Chat,England,Policy,SME Client,4,24,217,-0.496,1,0,9,Thu,0,Low,23.2,Closed within SLA,No escalation
+SR-00788,Finance,Email,England,Technical,Internal,3,37,244,0.657,4,0,14,Wed,1,Low,62.2,Closed after SLA,Team review
+SR-00007,Customer Support,Email,England,Policy,Internal,2,53,176,-0.177,5,1,16,Thu,1,Urgent,79.7,Closed after SLA,Escalated after breach
+SR-00251,IT,Portal,Northern Ireland,Access,SME Client,4,53,199,-0.256,0,0,14,Tue,0,Low,37.7,Closed within SLA,No escalation
+SR-00824,IT,Email,Wales,Billing,Internal,2,37,228,-0.391,0,2,18,Thu,0,Standard,44.3,Closed within SLA,No escalation
+SR-00076,Finance,Email,Scotland,Billing,Public Sector,2,69,119,0.167,1,1,8,Tue,0,Low,31.3,Closed within SLA,Team review
+SR-00513,Operations,Phone,England,Technical,Enterprise Client,3,48,267,0.107,1,0,15,Wed,1,Urgent,68.7,Closed after SLA,Escalated after breach
+SR-00392,Operations,Email,England,Policy,SME Client,0,30,214,-0.389,2,0,7,Thu,0,Low,10.9,Closed within SLA,Team review
+SR-00433,IT,Email,England,Access,Enterprise Client,1,18,284,0.361,2,1,8,Fri,0,Low,1.0,Closed within SLA,No escalation
+SR-00069,Operations,Email,England,Policy,SME Client,2,48,102,-0.144,2,0,7,Tue,1,Standard,66.7,Closed after SLA,No escalation
+SR-00168,Customer Support,Phone,Scotland,Onboarding,Internal,3,18,160,0.127,1,2,18,Thu,0,Low,32.2,Closed within SLA,No escalation
+SR-00731,Finance,Email,England,Onboarding,Internal,2,7,321,0.132,0,0,9,Tue,1,Standard,56.3,Closed after SLA,Team review
+SR-00555,Operations,Portal,England,Access,SME Client,2,35,213,-0.584,2,2,8,Fri,0,Standard,24.6,Closed within SLA,No escalation
+SR-00367,Customer Support,Portal,Wales,Onboarding,SME Client,1,3,152,1.0,0,0,14,Thu,0,Low,24.4,Closed within SLA,No escalation
+SR-00346,Customer Support,Portal,Wales,Data Request,Public Sector,2,55,128,0.837,0,1,13,Wed,0,Urgent,1.0,Closed within SLA,No escalation
+SR-00585,Customer Support,Email,England,Access,Public Sector,4,16,157,0.321,3,0,18,Wed,0,Standard,18.7,Closed within SLA,No escalation
+SR-00536,Operations,Chat,England,Access,Internal,0,68,124,0.291,0,2,8,Wed,0,Low,7.8,Closed within SLA,No escalation
+SR-00399,HR,Phone,England,Billing,Internal,6,11,174,-0.038,1,1,8,Mon,0,Standard,22.2,Closed within SLA,No escalation
+SR-00186,IT,Phone,Wales,Billing,Public Sector,2,39,254,0.67,5,0,14,Wed,0,Standard,23.1,Closed within SLA,No escalation
+SR-00349,IT,Chat,Scotland,Policy,Public Sector,2,7,142,0.123,0,2,17,Thu,0,Urgent,40.0,Closed within SLA,Team review
+SR-00616,Customer Support,Portal,England,Access,Internal,1,48,122,0.137,2,1,15,Thu,1,Low,74.5,Closed after SLA,No escalation
+SR-00212,IT,Email,England,Access,Internal,0,54,119,-0.7,5,0,14,Tue,1,Standard,77.0,Closed after SLA,No escalation
+SR-00580,Finance,Email,England,Access,Public Sector,4,68,100,0.882,3,0,10,Thu,1,Urgent,63.6,Closed after SLA,Escalated after breach
+SR-00503,Customer Support,Chat,England,Policy,SME Client,2,55,265,0.455,1,0,19,Tue,0,Low,34.7,Closed within SLA,No escalation
+SR-00538,Operations,Email,England,Billing,Public Sector,4,52,73,-0.539,4,0,7,Tue,1,Urgent,85.1,Closed after SLA,Escalated after breach
+SR-00197,IT,Portal,England,Data Request,Enterprise Client,3,13,101,1.0,2,0,17,Wed,1,Low,63.4,Closed after SLA,No escalation
+SR-00176,Operations,Portal,England,Access,SME Client,1,50,213,0.381,0,0,12,Wed,1,Standard,44.7,Closed after SLA,Manager note
