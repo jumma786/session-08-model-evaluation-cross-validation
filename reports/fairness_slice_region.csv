@@ -1,0 +1,5 @@
+region,n,breach_rate,accuracy,precision,recall,f1
+England,173,0.439,0.607,0.549,0.592,0.57
+Scotland,22,0.364,0.409,0.308,0.5,0.381
+Wales,21,0.429,0.571,0.5,0.111,0.182
+Northern Ireland,9,0.333,0.556,0.333,0.333,0.333
